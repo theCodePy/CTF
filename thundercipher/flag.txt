@@ -1,3 +1,9 @@
+Misc:
+	Mindscrew:	ThunderCipher{Br4inF*ck_i5_Scr3w3d!}
+	Six Four:	ThunderCipher{multiple_base64_decoding}
+	Troll:		ThunderCipher{Tr0LL_1s_1N_P34C3!!!}
+	1 OR 0:		ThunderCipher{Elli0t_Th3_HackerMan}
+
 
 Steg:
 	Quick Result:	ThunderCipher{S0_S1mPl3_QR_C0d3$$}
