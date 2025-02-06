@@ -9,8 +9,13 @@ Web:
 	Puzzle:		ThunderCipher{ByP4ss3D_3V3rY_Th1nG$$!!}
 
 
+Crypto:
+	Shuffler:	ThunderCipher{r3c0v3r1ng_4_shuffl3d_4rr4y_th4t_is_seeded_plu5_x0r}
+
+
 Steg:
 	Quick Result:	ThunderCipher{S0_S1mPl3_QR_C0d3$$}
 	Un-Redact:	
 	MetaPhore:	ThunderCipher{d4T4_h1Dd3n!!==}
 	Iddy Umpty:	ThunderCipher{B33PB33PB00P!!}
+	Gray Matter:	THUNDERCIPHER{N0_0N3_W1LL_F1ND_M3!!!}
