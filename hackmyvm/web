@@ -18,3 +18,10 @@ solution :
 the flag can be found in robots.txt
 flag : HMV{robotized}
 
+
+challenge name : 018
+link : https://hackmyvm.eu/challenges/challenge.php?c=018
+solution : 
+go to aaAxghuyrtlksd.php
+open it in burpsuit, change the request method from get to post.
+flag : HMV{postpostpost}
