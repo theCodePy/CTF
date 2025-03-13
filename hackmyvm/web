@@ -54,3 +54,11 @@ link : https://hackmyvm.eu/challenges/challenge.php?c=042
 solution :
 clicking on the links the index.php opens from the root which will give 404 status code. changeing the link to the index.php in current page works well. flag can be found in http://momo.hackmyvm.eu/n1lsfr4hm/index.php?user=-1    you can use 042/useridbrute.py to get the flag.
 flag : HMV{fcknumbers}
+
+
+challenge name : 050
+link : https://hackmyvm.eu/challenges/challenge.php?c=050
+solution :
+check the source. go to index.css, look like we found a base64 encoded text. decoding will get. thisismykey.css.txt so I paste this in browser. and got the flag.
+flag : HMV{wonderfulltext}
+
