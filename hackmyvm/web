@@ -1,0 +1,5 @@
+challenge name : 002
+link : https://hackmyvm.eu/challenges/challenge.php?c=002
+solution :
+the password can be found on the html source. password is commented
+flag : HMV{thatwasreallyeazy}
