@@ -3,3 +3,11 @@ link : https://hackmyvm.eu/challenges/challenge.php?c=002
 solution :
 the password can be found on the html source. password is commented
 flag : HMV{thatwasreallyeazy}
+
+
+challenge name : 009
+link : https://hackmyvm.eu/challenges/challenge.php?c=009
+solution:
+the flag is in from of you
+flag : HMV{infrontofme}
+
