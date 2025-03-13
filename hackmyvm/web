@@ -11,3 +11,10 @@ solution:
 the flag is in from of you
 flag : HMV{infrontofme}
 
+
+challenge name : 014
+link : https://hackmyvm.eu/challenges/challenge.php?c=014
+solution :
+the flag can be found in robots.txt
+flag : HMV{robotized}
+
