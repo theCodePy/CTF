@@ -25,3 +25,11 @@ solution :
 go to aaAxghuyrtlksd.php
 open it in burpsuit, change the request method from get to post.
 flag : HMV{postpostpost}
+
+
+challenge name : 020
+link : https://hackmyvm.eu/challenges/challenge.php?c=020
+solution:
+challenge excepted the link to comming from https://nepcodex.com/. So open the challenge in burpsuit and add a key in header ==>Referer: https://nepcodex.com/
+then we go the flag.
+flag : HMV{youareawelcome}
