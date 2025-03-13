@@ -33,3 +33,10 @@ solution:
 challenge excepted the link to comming from https://nepcodex.com/. So open the challenge in burpsuit and add a key in header ==>Referer: https://nepcodex.com/
 then we go the flag.
 flag : HMV{youareawelcome}
+
+
+challenge name : 024
+link : https://hackmyvm.eu/challenges/challenge.php?c=024
+solution :
+the page redirects immidiatly so in burpsuit, intercept the response for the request, we got the flag before it redirects.
+flag : HMV{fastredirect}
