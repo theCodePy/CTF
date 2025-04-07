@@ -24,4 +24,10 @@ Forensics:
 		flag: CTFlearn{ILoveJakarta}
 		solution: using exiftool -b filename to extract binary data from metadata to see file. also can be found by `strings filename | grep -i ctf` to see the flag.
 
+	07601:
+		challenge no: 97
+		flag: ABCTF{Du$t1nS_D0jo}
+		solution: binwalk showed binary footprints of 3 zip files. extracted them using binwalk -D='.*' filename. using estrings in one of the zip file we got the flag. `strings filename | grep -i ctf` reveals the flag.
+
+
 
