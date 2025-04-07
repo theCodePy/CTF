@@ -11,4 +11,8 @@ Forensics:
 		flag: flag{EEe_x_I_FFf}
 		solution: use exiftool to found flag in the metadata.
 
+	Binwalk:
+		flag: ABCTF{b1nw4lk_is_us3ful}
+		solution: file command say it's png, but file name is jpg, binwalk command says there are two png binary, extract it with binwalk -D='.*' filename. to extract all files. then we can find a png file with the flag.
+
 
