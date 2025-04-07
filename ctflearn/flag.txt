@@ -34,5 +34,10 @@ Forensics:
 		flag: flag{protect_your_git}
 		solution: `unzip filename`. then foud a folder with .git initialized. `git show` command reveals the old commits. and we can see the flag now.
 
+	I'm a dump:
+		challenge no: 883
+		flag: CTFlearn{fl4ggyfl4g}
+		solution: `xxd -d filename` command showed the flag with he.u inpurity replacing the character reveals the real flag.
+
 
 
