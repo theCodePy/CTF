@@ -2,4 +2,7 @@ Forensics:
 	101:
 		flag: flag{wow!_data_is_cool}
 		solution: using strings command to see texts
-
+	
+	Talking LS:
+		flag: ABCTF{T3Rm1n4l_is_C00l}
+		solution: ls -aR,found all hidden directory. found password for a pdf, open password protected pdf
