@@ -1,0 +1,5 @@
+Forensics:
+	101:
+		flag: flag{wow!_data_is_cool}
+		solution: using strings command to see texts
+
