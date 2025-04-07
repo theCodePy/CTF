@@ -19,4 +19,9 @@ Forensics:
 		flag: flag{3l1t3_3x1f_4uth0r1ty_dud3br0}
 		solution: using Exiftool on the to see the flag in the metadata.
 
+	Rubber Duck:
+		challenge no: 933
+		flag: CTFlearn{ILoveJakarta}
+		solution: using exiftool -b filename to extract binary data from metadata to see file. also can be found by `strings filename | grep -i ctf` to see the flag.
+
 
