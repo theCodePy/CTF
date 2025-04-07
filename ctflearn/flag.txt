@@ -6,3 +6,9 @@ Forensics:
 	Talking LS:
 		flag: ABCTF{T3Rm1n4l_is_C00l}
 		solution: ls -aR,found all hidden directory. found password for a pdf, open password protected pdf
+	
+	wow... so meta:
+		flag: flag{EEe_x_I_FFf}
+		solution: use exiftool to found flag in the metadata.
+
+
