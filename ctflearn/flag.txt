@@ -29,5 +29,10 @@ Forensics:
 		flag: ABCTF{Du$t1nS_D0jo}
 		solution: binwalk showed binary footprints of 3 zip files. extracted them using binwalk -D='.*' filename. using estrings in one of the zip file we got the flag. `strings filename | grep -i ctf` reveals the flag.
 
+	Git Is Good:
+		challenge no: 104
+		flag: flag{protect_your_git}
+		solution: `unzip filename`. then foud a folder with .git initialized. `git show` command reveals the old commits. and we can see the flag now.
+
 
 
