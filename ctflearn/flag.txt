@@ -50,5 +50,10 @@ Forensics:
 		solution: exiftool reveals a fake flag, `file filename` commad reveals a hiddent base64 encoded comment in file type. wich lead us to actual flag.
 
 
- 
+	PikesPeak:
+		challenge no: 935
+		flag: CTFlearn{Gandalf}
+		solution: `strings PikesPeak.jpg | grep -i ctf` showed many flags with different flag formates. correct one has the correct flag format. flag format is CTFlearn{}
+
+  
 
