@@ -91,4 +91,9 @@ Forensics:
 		flag: CTFlearn{Gandalf.BilboBaggins}
 		solution: found two base64 encoded data with `file filename` command. xor two of these strings together gives the flag.
 
+	Blank Page:
+		challenge no: 959
+		flag: CTFlearn{If_y0u_r3/\d_thi5_you_pa553d}
+		solution: convert ' ' to 0 and '\u200f' to 1 and read the binary to get the flag.
+
 	 
