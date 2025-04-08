@@ -111,4 +111,9 @@ Forensics:
 		flag: CTFlearn{PApdsjRTae}
 		solution: using wireshark, found urlEncoded-->base64encoded password.
 
+	Smiling ASCII:
+		challenge no: 903
+		flag: CTFlearn{ascii_pixel_flag}
+		solution: using `zsteg -a filename` got the flag
+
 
