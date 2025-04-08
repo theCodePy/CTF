@@ -86,4 +86,9 @@ Forensics:
 		flag: CTFlearn{this_is_fun}
 		solution: found `keyword: myadmin` in metadata of file using exiftool. using `steghide extract -sf filename -xf file -p myadmin` command base64 encoded flag was found.
 
+	GandalfTheWise:
+		challenge no: 936
+		flag: CTFlearn{Gandalf.BilboBaggins}
+		solution: found two base64 encoded data with `file filename` command. xor two of these strings together gives the flag.
 
+	 
