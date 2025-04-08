@@ -60,5 +60,9 @@ Forensics:
 		flag: CTFlearn{Linux_Is_Awesome}
 		solution: exiftool reveals a base64 encode password. found a zip binary footprint in the file with binwalk command. it was a password protected zip file. using the password found previously to unzip it found the flag file.
 
+	PDF by fdpumyp:
+		challenge: 957
+		flag: CTFlearn{)_1l0w3y0Um00my123}
+		solution: using strings, we got base64 encoded messages wich reveals the messy flag.
 
 
