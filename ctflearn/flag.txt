@@ -81,4 +81,9 @@ Forensics:
 		flag: CTFlearn{I_Love_Pho!!!}
 		solution: `xxd -d filename | head` found the flag mixed with random inpurity.
 
+	Simple Stegnography:
+		challenge no: 894
+		flag: CTFlearn{this_is_fun}
+		solution: found `keyword: myadmin` in metadata of file using exiftool. using `steghide extract -sf filename -xf file -p myadmin` command base64 encoded flag was found.
+
 
