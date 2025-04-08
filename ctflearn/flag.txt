@@ -55,5 +55,10 @@ Forensics:
 		flag: CTFlearn{Gandalf}
 		solution: `strings PikesPeak.jpg | grep -i ctf` showed many flags with different flag formates. correct one has the correct flag format. flag format is CTFlearn{}
 
-  
+	Tux!:
+		challenge no: 973
+		flag: CTFlearn{Linux_Is_Awesome}
+		solution: exiftool reveals a base64 encode password. found a zip binary footprint in the file with binwalk command. it was a password protected zip file. using the password found previously to unzip it found the flag file.
+
+
 
