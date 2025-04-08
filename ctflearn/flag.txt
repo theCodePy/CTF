@@ -44,5 +44,11 @@ Forensics:
 		flag: FLAG{may_the_brute_force_be_with_you}
 		solution: with `binwalk -D='.*' filename` extract the files. it was a password protected zip file. `running 7z x zipfile` would extract any other files that aren't password protected. found a clue file with password formate ctflag****** where * means a number. generated a custom passfile. `zip2john zipfile > hash` now ready to crack zip with custom dictionary. `john hash --wordlist=custompass` found the password. unzip file with password found another flag.zip file. `unzip flag.zip`. found a base64 encoded text. `echo base64encodedtext | base64 -d`. found the flag.
 
+	Snowboard:
+		Challenge no: 934
+		flag: CTFlearn{SkiBanff}
+		solution: exiftool reveals a fake flag, `file filename` commad reveals a hiddent base64 encoded comment in file type. wich lead us to actual flag.
+
+
  
 
