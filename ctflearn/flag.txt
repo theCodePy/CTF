@@ -106,4 +106,9 @@ Forensics:
 		flag: flag{eat_more_oreos}
 		solution: `binwalk -D='.*' filename` to extract a hiddent rar file. unrar it to get a jpg file. using `strings filename` to get the flag.
 
+	Digital Camouflage:
+		challenge no: 237
+		flag: CTFlearn{PApdsjRTae}
+		solution: using wireshark, found urlEncoded-->base64encoded password.
+
 
