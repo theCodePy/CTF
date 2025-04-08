@@ -96,4 +96,9 @@ Forensics:
 		flag: CTFlearn{If_y0u_r3/\d_thi5_you_pa553d}
 		solution: convert ' ' to 0 and '\u200f' to 1 and read the binary to get the flag.
 
-	 
+	abandoned place:
+		challenge no: 1000
+		flag: CTFlearn{urban_exploration}
+		solution: baseline encoding, change the forth value from FF C0 to change hight with hexeditor, to get the flag
+
+
