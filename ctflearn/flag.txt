@@ -65,4 +65,8 @@ Forensics:
 		flag: CTFlearn{)_1l0w3y0Um00my123}
 		solution: using strings, we got base64 encoded messages wich reveals the messy flag.
 
+	Minions:
+		challenge no: 955
+		flag: CTFlearn{M1NI0NS_ARE_C00L}
+		solution: `binwalk -D='.*' filename` extracted the rar file. `unrar x filename` rarreveals MEGA link. can be done with `strings` command. again another jpg file repeating the same process. found YouWin(almost).jpg file. `strings filename` reveals a base64 encoded string. decoding it 4 times reveals the flag.
 
