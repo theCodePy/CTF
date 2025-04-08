@@ -76,4 +76,9 @@ Forensics:
 		solution: have to solved two math equation for x and y. problem can be found in the metadata. 
 
 
+	Pho Is Tasty!
+		challenge no: 971
+		flag: CTFlearn{I_Love_Pho!!!}
+		solution: `xxd -d filename | head` found the flag mixed with random inpurity.
+
 
