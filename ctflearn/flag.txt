@@ -101,4 +101,9 @@ Forensics:
 		flag: CTFlearn{urban_exploration}
 		solution: baseline encoding, change the forth value from FF C0 to change hight with hexeditor, to get the flag
 
+	Milk's Best Friend:
+		challenge no: 195
+		flag: flag{eat_more_oreos}
+		solution: `binwalk -D='.*' filename` to extract a hiddent rar file. unrar it to get a jpg file. using `strings filename` to get the flag.
+
 
