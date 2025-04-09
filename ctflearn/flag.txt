@@ -131,6 +131,9 @@ Forensics:
         	flag: flag{hack_complete}
         	solution: got some intersting password with string. and a mega link, unziping the file got and password protected zip. used previos passwords unziped it to get a image the flag is very very small and can be found on the image.
 
-	
+	Corrupted File:
+                challenge no: 138
+                flag: flag{g1f_or_j1f}
+                solution: In header first 4 common hex digit are missing which is 'GIF8' adding it in the front now we can open the file. using convert file.gif frames.png command we can view and analyze each frame. found base64 encoded flag.	
 
 
