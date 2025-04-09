@@ -116,4 +116,9 @@ Forensics:
 		flag: CTFlearn{ascii_pixel_flag}
 		solution: using `zsteg -a filename` got the flag
 
+	HailCaesar!:
+		challenge no : 952
+		flag: CTFlearn{Maximus.Decimus.Meridius}
+		solution: `strings to get encoded messages. decode that with caesar cipher mod 128 brute forece it. found two scraps of flag combine those two to get the flag key=18 and key=51.
+
 
