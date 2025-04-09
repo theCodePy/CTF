@@ -126,4 +126,11 @@ Forensics:
         	flag: flag{AFlagInPCAP}
         	solution: open the pcap file with wireshark, and found the base64 encoded flag in the http url parameter.
 
+	Up For A Little Challenge?:
+        	challenge no: 142
+        	flag: flag{hack_complete}
+        	solution: got some intersting password with string. and a mega link, unziping the file got and password protected zip. used previos passwords unziped it to get a image the flag is very very small and can be found on the image.
+
+	
+
 
