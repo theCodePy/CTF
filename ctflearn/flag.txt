@@ -136,4 +136,9 @@ Forensics:
                 flag: flag{g1f_or_j1f}
                 solution: In header first 4 common hex digit are missing which is 'GIF8' adding it in the front now we can open the file. using convert file.gif frames.png command we can view and analyze each frame. found base64 encoded flag.	
 
+	Mr.Bin:
+		chellenge no: 997
+		flag: CTFlearn{y0u_n4il3d_it}
+		solution: with exiftool found encoded base64 message decoded into "600x600_picture". with binwalk found encrypted zip file. rockyou didn't help. generate password with `string image.jpg > password` password cracked 'mr_b1n'. unziping the file  found 0's and 1's. turn them into a grayscale png image to found the flag mirrored and clockwise rotated 90degree.
+
 
