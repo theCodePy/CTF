@@ -146,4 +146,9 @@ Forensics:
 		flag: flag{d0nt_m3s5_w1th_th3_KGB}
 		solution: open the challenge jpg file in stegsolver. used stereogram solver option. slide the image and found the flag at offset 898.
 
+	Exclusive Santa
+		challenge no: 851
+		flag: CTFleam(Santa_1s_C0ming}
+		solution: Downloaded challenge rar file. found 1.png and 3.png after extract the rar. after running `binwalk 3.png` found another png binary. `binwalk -D='.*' 3.png` to extract it. rename it 2.png. with stegsolve xoring image 1.png and 2.png found the flag.
+
 
