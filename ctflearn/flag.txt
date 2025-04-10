@@ -141,4 +141,9 @@ Forensics:
 		flag: CTFlearn{y0u_n4il3d_it}
 		solution: with exiftool found encoded base64 message decoded into "600x600_picture". with binwalk found encrypted zip file. rockyou didn't help. generate password with `string image.jpg > password` password cracked 'mr_b1n'. unziping the file  found 0's and 1's. turn them into a grayscale png image to found the flag mirrored and clockwise rotated 90degree.
 
+	The adventures of Boris Ivanov. Part 1.:
+		challenge no: 373
+		flag: flag{d0nt_m3s5_w1th_th3_KGB}
+		solution: open the challenge jpg file in stegsolver. used stereogram solver option. slide the image and found the flag at offset 898.
+
 
