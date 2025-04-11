@@ -161,4 +161,9 @@ Forensics:
 		flag: the_flag_is{A_sP3c7r0grAm?!}
 		solution: help.me is an .ogg audio file. with sprectrogram in SonicAnalyzer found a qr code. scanning it lead me to a pastbin.com url where I found the flag.
 
+	MountainMan:
+		challenge no: 888
+		flag : CTFlearn{Ubuntu_r0ck5}
+		solution: as the clue said there are two ff d9 marker in jpg file. so copied all the hex values after the first ff d9 flag then check it with the known text CTFlearn{, found a common key 203 so xor the hex with the value to found the whole flag.
+
 
