@@ -155,3 +155,10 @@ Forensics:
 		challenge no: 890
 		flag: CTFlearn{f0r3n51cs_ma5t3r}
 		solution: download the challenge file which name is cut3_c4t.png. `binwalk cut3_c4t.png` found that a rar archive is hidding. run `binwalk -D='.*' cut3_c4t.png`. `unrar x filename`. foudn two files. 'purrr_2.mp3' and 'y0u_4r3_cl0s3.rar'. `xxd -d y0u_4r3_cl0s3.rar` found the header is altered. `hexeditor y0u_4r3_cl0s3.rar` and change the header from 'Cat!' to 'Rar!'. it was password protected. after unsing spectrum analyzer found the password "sp3ctrum_1s_y0ur_fr13nd". using the password to unrar found "f1n4lly.txt". found base64 encoded flag in the file.
+
+	Seeing is believing:
+		challenge no : 441
+		flag: the_flag_is{A_sP3c7r0grAm?!}
+		solution: help.me is an .ogg audio file. with sprectrogram in SonicAnalyzer found a qr code. scanning it lead me to a pastbin.com url where I found the flag.
+
+
