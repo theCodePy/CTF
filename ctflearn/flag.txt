@@ -166,4 +166,9 @@ Forensics:
 		flag : CTFlearn{Ubuntu_r0ck5}
 		solution: as the clue said there are two ff d9 marker in jpg file. so copied all the hex values after the first ff d9 flag then check it with the known text CTFlearn{, found a common key 203 so xor the hex with the value to found the whole flag.
 
+	Music To My Ears:
+		challenge no : 220
+		flag : CTFlearn{1_c4n_f1x_it}
+		solution: first 32 bytes are all wrong in the m4a file header. 1st 4 bytes represents ftyp block size including itself. wich is 32. ftypM4A_ followed by 4 bytes of 00. after editing first 32 bytes we can here the flag.
+
 
