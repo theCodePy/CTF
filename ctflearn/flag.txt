@@ -171,4 +171,78 @@ Forensics:
 		flag : CTFlearn{1_c4n_f1x_it}
 		solution: first 32 bytes are all wrong in the m4a file header. 1st 4 bytes represents ftyp block size including itself. wich is 32. ftypM4A_ followed by 4 bytes of 00. after editing first 32 bytes we can here the flag.
 
+	The Keymaker:
+		challenge no: 912
+		flag : CTFlearn{Ne0.TheMatrix}
+		solution : sos(start of scan) 'ff da' copy 32 bytes of hex after the marker that will be the key, and sof0(start of frame) 'ff c0', iv started after 2bytes for 'ffc0' as the clue said. fuck the clue. so copy 16 bytes of hex after 2bytes of marker.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WEB:
+	Don't Bump Your Head(er):
+		challenge no: 109
+		flag: flag{did_this_m3ss_with_y0ur_h34d}
+		solution: a simple command solved the problem. curl -v -A "Sup3rS3cr3tAg3nt" -H "Referer: awesomesauce.com"  http://165.227.106.113/header.php
+
+	
+	POST Practice:
+		challenge no: 114
+		flag: flag{p0st_d4t4_4ll_d4y}
+		solution: a simple curl command solved the challenge.  `curl -X POST -d "username=admin&password=71urlkufpsdnlkadsf" -v http://165.227.106.113/post.php`
+
+
+
+
+
+
+
+
+
+
+
+
+
+Miscellaneous:
+	
+	Time Traveller:
+		challenge no: 1072
+		flag: CTFlearn{today@nasa.gov}
+		solution: waybackmachine helped me to solve this.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reverse Engineering:
+	
+	Basic Android RE 1
+		challenge no: 962
+		flag: CTFlearn{Spring2019_is_not_secure!}
+		solution: d2j-dex2jar after unzipping the file. and open the class.jar file in jd-gui
+
 
