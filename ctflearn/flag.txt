@@ -238,11 +238,11 @@ Miscellaneous:
 
 
 
-Reverse Engineering:
+
+Binary:
+	Simple bof:
+		Challenge no: 1010
+		flag: CTFlearn{buffer_0verflows_4re_c00l!}
+		Solution: C code reveals that gets used which is vulnerable to buffer overflow.
+
 	
-	Basic Android RE 1
-		challenge no: 962
-		flag: CTFlearn{Spring2019_is_not_secure!}
-		solution: d2j-dex2jar after unzipping the file. and open the class.jar file in jd-gui
-
-
