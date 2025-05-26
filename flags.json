@@ -1,4 +1,4 @@
 {
-	"26-05-2025 22:35" : {"platform": "ctflearn.com", "CTF": "Simple bof", "flag":"CTFlearn{buffer_0verflows_4re_c00l!}", "points": 10, "difficulty": "Easy", "link": "https://ctflearn.com/challenge/1010"},
-	"27-05-2025 01:00" : {"platform": "ctflearn.com", "CTF": "Reykjavik",  "flag":"CTFlearn{Eye_L0ve_Iceland_}", "points":10, "difficulty":"Easy", "link": "https://ctflearn.com/challenge/990"}
+	"26-05-2025 22:35" : {"platform": "ctflearn.com", "CTF": "Simple bof", "flag":"CTFlearn{buffer_0verflows_4re_c00l!}", "points": 10, "difficulty": "Easy", "link": "https://ctflearn.com/challenge/1010", "comment": "Binary, stackOverFlow"},
+	"27-05-2025 01:00" : {"platform": "ctflearn.com", "CTF": "Reykjavik",  "flag":"CTFlearn{Eye_L0ve_Iceland_}", "points":10, "difficulty":"Easy", "link": "https://ctflearn.com/challenge/990", "comment": "ReverseEngineering, ghidra, gdb"}
 }
