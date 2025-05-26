@@ -245,4 +245,9 @@ Binary:
 		flag: CTFlearn{buffer_0verflows_4re_c00l!}
 		Solution: C code reveals that gets used which is vulnerable to buffer overflow.
 
-	
+	Reykjavik:
+		challenge no: 990
+		flag: CTFlearn{Eye_L0ve_Iceland_}
+		Solution: have to found the global variable address <data> then print memory location of <data>. perform xor operation with those values.
+
+
