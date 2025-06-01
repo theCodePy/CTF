@@ -294,4 +294,9 @@ Cryptography:
 		flag: CTF{Bit_Flippin}
 		solution: simple binary to text conversion, solved this with python, script_Link--> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/ReversePolarity/ReversePolarity.py
 
+	Hextroadinary:
+		challenge no: 158
+		flag: 0xc0ded
+		solution: just xor those hex values and convert it into hex.
+
 	
