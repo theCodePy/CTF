@@ -299,4 +299,9 @@ Cryptography:
 		flag: 0xc0ded
 		solution: just xor those hex values and convert it into hex.
 
+	HyperStream Test #2:
+		challenge no: 443
+		flag: ILOUEBACONDONTYOU
+		solution: decoded that cipher from decode.fr website, it was BACON CIPHER, also known as BACONIAN CIPHER,
+
 	
