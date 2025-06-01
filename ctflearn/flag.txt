@@ -278,6 +278,12 @@ Cryptography:
 		challenge no: 309
 		flag: FLAGSAMUELMORSEISCOOLBYTHEWAYILIKECHEES
 		Solution: Morse Code, solved with cyberchef (from morse code)
+
+	Vigenere Cipher:
+		challenge no: 305
+		flag: flag{CiphersAreAwesome}
+		Solution: simple vigenere cipher, solved by my own algorithm writen years ago, https://github.com/rohan37-pro/encryption-algorithms/blob/main/vigenere_cipher.py, also can be solved by cyberchef (vigenere decode).
+
 	
 
 
