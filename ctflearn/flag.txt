@@ -289,4 +289,9 @@ Cryptography:
 		flag: flag{y0u_Have_bruteforce_XOR}
 		solution : solved this problem by writing a python script, simple xor known plaintext attack, script link--> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/BruXOR/_xor.py
 
+	Reverse Polarity:
+		challenge no: 230
+		flag: CTF{Bit_Flippin}
+		solution: simple binary to text conversion, solved this with python, script_Link--> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/ReversePolarity/ReversePolarity.py
+
 	
