@@ -6,5 +6,6 @@
 	"01-06-2025 07:00" : {"platform": "ctflearn.com", "CTF": "Base 2 2 the 6", "flag": "CTF{FlaggyWaggyRaggy}", "points": 20, "difficulty": "Easy", "link" : "https://ctflearn.com/challenge/192", "comment": "Cryptography, base64"},
 	"01-06-2025 07:05" : {"platform": "ctflearn.com", "CTF": "Morse Code", "flag": "FLAGSAMUELMORSEISCOOLBYTHEWAYILIKECHEES", "points": 20, "difficulty": "Easy", "link": "https://ctflearn.com/challenge/309", "comment": "Cryptography, Morse Code"},
 	"01-06-2025 08:50" : {"platform": "ctflearn.com", "CTF": "Vigenere Cipher", "flag": "flag{CiphersAreAwesome}", "points": 20, "difficulty": "Easy", "link": "https://ctflearn.com/challenge/305", "comment": "Cryptography, Vigenere Cipher"},
-	"01-06-2025 14:45" : {"platform": "ctflearn.com", "CTF": "BruXOR", "flag": "flag{y0u_Have_bruteforce_XOR}", "points": 20, "difficulty": "Easy", "link": "https://ctflearn.com/challenge/227", "comment": "Cryptography, Xor"}
+	"01-06-2025 14:45" : {"platform": "ctflearn.com", "CTF": "BruXOR", "flag": "flag{y0u_Have_bruteforce_XOR}", "points": 20, "difficulty": "Easy", "link": "https://ctflearn.com/challenge/227", "comment": "Cryptography, Xor"},
+	"01-06-2025 15:15" : {"platform": "ctflearn.com", "CTF": "Reverse Polarity", "flag": "CTF{Bit_Flippin}", "points": 30, "difficulty": "Easy", "link": "https://ctflearn.com/challenge/230", "comment": "Cryptography, BinaryToASCII"}
 }
