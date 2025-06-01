@@ -309,4 +309,8 @@ Cryptography:
 		flag: CTFlearn{Cyb3r_Cae54r}
 		solution: it was a caesar cipher but using qwerty keyboard rows to encrypt and decrypt. mannually substract with key 2.
 
+	Suspecious message:
+		challenge no: 887
+		flag: CTFlearn{Pl4Yf41R_1S_C00l_c1PheRrRR}
+		solution: play fair cipher
 	
