@@ -284,6 +284,9 @@ Cryptography:
 		flag: flag{CiphersAreAwesome}
 		Solution: simple vigenere cipher, solved by my own algorithm writen years ago, https://github.com/rohan37-pro/encryption-algorithms/blob/main/vigenere_cipher.py, also can be solved by cyberchef (vigenere decode).
 
+	BruXOR:
+		challenge no: 227
+		flag: flag{y0u_Have_bruteforce_XOR}
+		solution : solved this problem by writing a python script, simple xor known plaintext attack, script link--> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/BruXOR/_xor.py
+
 	
-
-
