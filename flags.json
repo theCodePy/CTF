@@ -2,5 +2,6 @@
 	"26-05-2025 22:35" : {"platform": "ctflearn.com", "CTF": "Simple bof", "flag":"CTFlearn{buffer_0verflows_4re_c00l!}", "points": 10, "difficulty": "Easy", "link": "https://ctflearn.com/challenge/1010", "comment": "Binary, stackOverFlow"},
 	"27-05-2025 01:00" : {"platform": "ctflearn.com", "CTF": "Reykjavik",  "flag":"CTFlearn{Eye_L0ve_Iceland_}", "points":10, "difficulty":"Easy", "link": "https://ctflearn.com/challenge/990", "comment": "ReverseEngineering, ghidra, gdb"},
 	"31-05-2025 11:02" : {"platform": "picoctf.org", "CTF": "DISKO 1", "flag": "picoCTF{1t5_ju5t_4_5tr1n9_be6031da}", "difficulty": "Easy", "link": "https://play.picoctf.org/practice/challenge/505", "comment": "Foresics, strings"},
-	"01-01-2025 06:47" : {"platform": "ctflearn.com", "CTF": "Character Encoding", "flag": "ABCTF{45C11_15_U53FUL}", "points": 20, "difficulty": "Easy", "link" : "https://ctflearn.com/challenge/115", "comment": "Cryptography, FromHex"}
+	"01-01-2025 06:47" : {"platform": "ctflearn.com", "CTF": "Character Encoding", "flag": "ABCTF{45C11_15_U53FUL}", "points": 20, "difficulty": "Easy", "link" : "https://ctflearn.com/challenge/115", "comment": "Cryptography, FromHex"},
+	"01-01-2025 07:00" : {"platform": "ctflearn.com", "CTF": "Base 2 2 the 6", "flag": "CTF{FlaggyWaggyRaggy}", "points": 20, "difficulty": "Easy", "link" : "https://ctflearn.com/challenge/192", "comment": "Cryptography, base64"}
 }
