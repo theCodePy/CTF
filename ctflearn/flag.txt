@@ -251,3 +251,20 @@ Binary:
 		Solution: have to found the global variable address <data> then print memory location of <data>. perform xor operation with those values.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Cryptography:
+	Character Encoding:
+		challenge no: 115
+		flag: ABCTF{45C11_15_U53FUL}
+		Solution: character encoded in ASCII hexadecimal, solved with cyberchef(from hex)
