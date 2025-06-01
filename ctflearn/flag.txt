@@ -268,3 +268,10 @@ Cryptography:
 		challenge no: 115
 		flag: ABCTF{45C11_15_U53FUL}
 		Solution: character encoded in ASCII hexadecimal, solved with cyberchef(from hex)
+
+	Base 2 2 the 6:
+		challenge no: 192
+		flag: CTF{FlaggyWaggyRaggy}
+		Solution: encoded in base64. solved with command `echo "Q1RGe0ZsYWdneVdhZ2d5UmFnZ3l9" | base64 -d` 
+
+	
