@@ -274,4 +274,10 @@ Cryptography:
 		flag: CTF{FlaggyWaggyRaggy}
 		Solution: encoded in base64. solved with command `echo "Q1RGe0ZsYWdneVdhZ2d5UmFnZ3l9" | base64 -d` 
 
+	Morse Code:
+		challenge no: 309
+		flag: FLAGSAMUELMORSEISCOOLBYTHEWAYILIKECHEES
+		Solution: Morse Code, solved with cyberchef (from morse code)
 	
+
+
