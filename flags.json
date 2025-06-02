@@ -11,5 +11,6 @@
 	"01-06-2025 18:10" : {"platform": "ctflearn.com", "CTF": "Hextroadinary", "flag": "0xc0ded", "points": 30, "difficulty": "Easy", "link": "https://ctflearn.com/challenge/158", "comment": "Cryptography, xor hex values"},
 	"01-06-2025 18:20" : {"platform": "ctflearn.com", "CTF": "HyperStream Test #2", "flag": "ILOUEBACONDONTYOU", "points": 30, "difficulty": "Easy", "link": "https://ctflearn.com/challenge/443", "comment": "Cryptography, BACON cipher"},
 	"01-06-2025 18:40" : {"platform": "ctflearn.com", "CTF": "Modern Gaius Julius Caesar", "flag": "CTFlearn{Cyb3r_Cae54r}", "points": 30, "difficulty": "Easy", "link": "https://ctflearn.com/challenge/885", "comment": "Cryptography, Caesar but using qwerty keyborad row wise"},
-	"01-06-2025 19:35" : {"platform": "ctflearn.com", "CTF": "Suspecious message", "flag": "CTFlearn{Pl4Yf41R_1S_C00l_c1PheRrRR}", "points": 30, "difficulty": "Easy", "link": "https://ctflearn.com/challenge/887", "comment": "Cryptography, play fair cipher"}
+	"01-06-2025 19:35" : {"platform": "ctflearn.com", "CTF": "Suspecious message", "flag": "CTFlearn{Pl4Yf41R_1S_C00l_c1PheRrRR}", "points": 30, "difficulty": "Easy", "link": "https://ctflearn.com/challenge/887", "comment": "Cryptography, play fair cipher"},
+	"02-06-2025 09:10" : {"platform": "ctflearn.com", "CTF": "Tone dialing", "flag": "CTFlean{CRYPTOGRAPHY}", "points": 30, "difficulty": "Easy", "link": "https://ctflearn.com/challenge/889", "comment": "Cryptography, ASCII decimal in DTMF"}
 }
