@@ -314,3 +314,9 @@ Cryptography:
 		flag: CTFlearn{Pl4Yf41R_1S_C00l_c1PheRrRR}
 		solution: play fair cipher
 	
+	Tone dialing:
+		challenge no: 889
+		flag: CTFlean{CRYPTOGRAPHY}
+		solution: https://dtmf.netlify.app/ use this site to decode DTMF and convert the decimals into ASCII
+	
+	
