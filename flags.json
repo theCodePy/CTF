@@ -16,5 +16,6 @@
 	"02-06-2025 10:45" : {"platform": "ctflearn.com", "CTF": "The Safest Encryption", "flag": "CTFlearn{CTFlearn_is_fun_hope_you_enjoyed_it!}", "points": 40, "difficulty": "Medium", "link": "https://ctflearn.com/challenge/1092", "comment": "Cryptography, xoring 2 binary files"},
 	"05-06-2025 11:20" : {"platform": "ctflearn.com", "CTF": "RSA Beginner", "flag": "abctf{rs4_is_aw3s0m3}", "points": 50, "difficulty": "Medium", "link": "https://ctflearn.com/challenge/119", "comment": "Cryptography, rsa, factordb,rsa-calculator"},
 	"05-06-2025 12:54" : {"platform": "ctflearn.com", "CTF": "Substitution Cipher", "flag": "ifonlymoderncryptowaslikethis", "points": 60, "difficulty": "Medium", "link": "https://ctflearn.com/challenge/238", "comment": "Cryptography, Substitution Cipher, frequency analysis"},
-	"05-06-2025 13:26" : {"platform": "ctflearn.com", "CTF": "RSA Noob", "flag": "abctf{b3tter_up_y0ur_e}", "points": 60, "difficulty": "Medium", "link": "https://ctflearn.com/challenge/120", "comment": "Cryptography, rsa, e was 1, WTF"}
+	"05-06-2025 13:26" : {"platform": "ctflearn.com", "CTF": "RSA Noob", "flag": "abctf{b3tter_up_y0ur_e}", "points": 60, "difficulty": "Medium", "link": "https://ctflearn.com/challenge/120", "comment": "Cryptography, rsa, e was 1, WTF"},
+	"05-06-2025 13:50" : {"platform": "ctflearn.com", "CTF": "5x5 Crypto", "flag": "CTF{THUMBS_UP}", "points": 60, "difficulty": "Medium", "link": "https://ctflearn.com/challenge/263", "comment": "Cryptography, 5x5 crypto cipher, not play fair"}
 }
