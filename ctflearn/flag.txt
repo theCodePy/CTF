@@ -333,3 +333,10 @@ Cryptography:
 		challenge no: 238
 		flag: ifonlymoderncryptowaslikethis
 		solution: frequency analysis of english alphabets. cryptography
+
+	RSA Noob:
+		challenge no: 120
+		flag: abctf{b3tter_up_y0ur_e}
+		solution: e was 1, almost not encrypted text.
+
+	
