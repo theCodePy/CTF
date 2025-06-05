@@ -329,4 +329,7 @@ Cryptography:
 		flag: abctf{rs4_is_aw3s0m3}
 		solution: got prime factors from factordb. calculate message from rsa calculator. then convert the long_to_bytes().
 
-	
+	Substitution Cipher:
+		challenge no: 238
+		flag: ifonlymoderncryptowaslikethis
+		solution: frequency analysis of english alphabets. cryptography
