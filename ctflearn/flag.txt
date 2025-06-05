@@ -324,4 +324,9 @@ Cryptography:
 		flag: CTFlearn{CTFlearn_is_fun_hope_you_enjoyed_it!}
 		solution: xor two files together to get a decrypted pdf file. that txt file is the key for encrypted pdf.
 
+	RSA Beginner :
+		challenge no: 119
+		flag: abctf{rs4_is_aw3s0m3}
+		solution: got prime factors from factordb. calculate message from rsa calculator. then convert the long_to_bytes().
+
 	
