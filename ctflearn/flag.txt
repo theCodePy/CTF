@@ -339,4 +339,8 @@ Cryptography:
 		flag: abctf{b3tter_up_y0ur_e}
 		solution: e was 1, almost not encrypted text.
 
+	5x5 Crypto:
+		challenge no: 263
+		flag: CTF{THUMBS_UP}
+		solution: reading the description it's very easy to solve. see this solution from github: https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/5x5_Crypto/solution.txt
 	
