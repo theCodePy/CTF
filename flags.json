@@ -14,5 +14,6 @@
 	"01-06-2025 19:35" : {"platform": "ctflearn.com", "CTF": "Suspecious message", "flag": "CTFlearn{Pl4Yf41R_1S_C00l_c1PheRrRR}", "points": 30, "difficulty": "Easy", "link": "https://ctflearn.com/challenge/887", "comment": "Cryptography, play fair cipher"},
 	"02-06-2025 09:10" : {"platform": "ctflearn.com", "CTF": "Tone dialing", "flag": "CTFlean{CRYPTOGRAPHY}", "points": 30, "difficulty": "Easy", "link": "https://ctflearn.com/challenge/889", "comment": "Cryptography, ASCII decimal in DTMF"},
 	"02-06-2025 10:45" : {"platform": "ctflearn.com", "CTF": "The Safest Encryption", "flag": "CTFlearn{CTFlearn_is_fun_hope_you_enjoyed_it!}", "points": 40, "difficulty": "Medium", "link": "https://ctflearn.com/challenge/1092", "comment": "Cryptography, xoring 2 binary files"},
-	"05-06-2025 11:20" : {"platform": "ctflearn.com", "CTF": "RSA Beginner", "flag": "abctf{rs4_is_aw3s0m3}", "points": 50, "difficulty": "Medium", "link": "https://ctflearn.com/challenge/119", "comment": "Cryptography, rsa, factordb,rsa-calculator"}
+	"05-06-2025 11:20" : {"platform": "ctflearn.com", "CTF": "RSA Beginner", "flag": "abctf{rs4_is_aw3s0m3}", "points": 50, "difficulty": "Medium", "link": "https://ctflearn.com/challenge/119", "comment": "Cryptography, rsa, factordb,rsa-calculator"},
+	"05-06-2025 12:54" : {"platform": "ctflearn.com", "CTF": "Substitution Cipher", "flag": "ifonlymoderncryptowaslikethis", "points": 60, "difficulty": "Medium", "link": "https://ctflearn.com/challenge/238", "comment": "Cryptography, Substitution Cipher, frequency analysis"}
 }
