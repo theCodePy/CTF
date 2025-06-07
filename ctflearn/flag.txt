@@ -332,7 +332,7 @@ Cryptography:
 	Substitution Cipher:
 		challenge no: 238
 		flag: ifonlymoderncryptowaslikethis
-		solution: frequency analysis of english alphabets. cryptography
+		solution: frequency analysis of english alphabets, use grep and a english dictionary. cryptography
 
 	RSA Noob:
 		challenge no: 120
@@ -343,4 +343,10 @@ Cryptography:
 		challenge no: 263
 		flag: CTF{THUMBS_UP}
 		solution: reading the description it's very easy to solve. see this solution from github: https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/5x5_Crypto/solution.txt
+
+	ALEXCTF CR2: Many time secrets:
+		challenge no: 117
+		flag: ALEXCTF{HERE_GOES_THE_KEY}
+		solution : manually checking for answers. finding the key was the first challenge. then I realized that the flag is the key. manually analyzed the encrypted message with python. decrypt the english message by guessiing the next letter of the word.
+
 	
