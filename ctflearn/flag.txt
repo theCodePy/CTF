@@ -349,4 +349,9 @@ Cryptography:
 		flag: ALEXCTF{HERE_GOES_THE_KEY}
 		solution : manually checking for answers. finding the key was the first challenge. then I realized that the flag is the key. manually analyzed the encrypted message with python. decrypt the english message by guessiing the next letter of the word.
 
+	Zippy.zip:
+		challenge no: 1022
+		flag: CTFlearn{s0m3t1m35_u$1ng_h4rd_p4s5w0rd_i5_n0t_3n0ugh}
+		Solution: the encrypted zip contains very small size of plaintext (4 bytes) file so bruteforcing the plaintext possible by checking it with checksum CRC value (Cyclic Redundency Check). checksum is computed from all the contents from the entries of zip file. checksum is calculated before encryption. solution python code github_link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/Zippy.zip/computeCRC.py
+
 	
