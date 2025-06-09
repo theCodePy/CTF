@@ -359,4 +359,9 @@ Cryptography:
 		flag: CTFlearn{n0t_th4t_s3cur3_4ft3r_4ll}
 		solution: by looking into that RSA code I known that p and q are very close. so we can easily factorise the n. Let s = ( p + q) / 2 and t = ( p - q) / 2. Note that s is close to √n. Then, n = p * q = (s + t) * (s - t) = s2 - t2. If s is close to √n, then t2 = s2 - n and finding t would lead to p = s + t and q = s - t. Note that (s2 -n) is a perfect square. solution python code github_link written by me --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/CoppeRSA_Lattice/Prime_factor.py
 
+	Polycrypto:
+		challenge no: 547
+		flag: flag{p0lynom1als_4r3_k00l}
+		solution: the polynomial represents a banary number. just convert it back to binary then Decimal and then ASCII text. python code --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/Polycrypto/polycrypto.py
+
 	
