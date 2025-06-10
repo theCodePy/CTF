@@ -402,5 +402,10 @@ Programming:
 		flag: CTFlearn{5432103279251234}
 		solution: credit card validation programme. have to implement the Luhn Algorithm to valid a credit card number. 1. multiply each digit with the weight pattarn 2,1,2,1,2,1.. and so on. 2. if the product is double digit add them. 3. now add all products. 4. if the sum of all product is multiplied by 10 then the credit card number is valid. github link of solution --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/The_Credit_Card_Fraudster/fraud_card_number.py
 
+	AndhraPradesh Assembler Chall:
+		challenge no: 1030
+		flag: CTFlearn{Hyderabad_Telugu}
+		solution: je = jump if equal, jne = jump if not equal, ja = jump if first operand is greater, jb = jump if fitst operand is less than second. al lower bit, ah is higher bit of ax register. 
+
 	
 
