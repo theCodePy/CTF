@@ -364,4 +364,37 @@ Cryptography:
 		flag: flag{p0lynom1als_4r3_k00l}
 		solution: the polynomial represents a banary number. just convert it back to binary then Decimal and then ASCII text. python code --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/Polycrypto/polycrypto.py
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Programming:
+	Adoni Assembler Chall:
+		challenge no: 1026
+		flag: CTFlearn{Kurn00l_District}
+		solution: have to edit a line in the assambly programme. adding "call _printflag" will print the flag. or copy the instructions of printing adoni from the _printflag function to the _start function will also print the flag. $ nasm -f elf64 file.asm -o obj.o ; $ ld obj.o -o executable ; 
+
 	
