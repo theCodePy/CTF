@@ -397,4 +397,9 @@ Programming:
 		flag: CTFlearn{Kurn00l_District}
 		solution: have to edit a line in the assambly programme. adding "call _printflag" will print the flag. or copy the instructions of printing adoni from the _printflag function to the _start function will also print the flag. $ nasm -f elf64 file.asm -o obj.o ; $ ld obj.o -o executable ; 
 
+	The Credit Card Fraudster:
+		challenge no: 970
+		flag: CTFlearn{5432103279251234}
+		solution: credit card validation programme. have to implement the Luhn Algorithm to valid a credit card number. 1. multiply each digit with the weight pattarn 2,1,2,1,2,1.. and so on. 2. if the product is double digit add them. 3. now add all products. 4. if the sum of all product is multiplied by 10 then the credit card number is valid.
+
 	
