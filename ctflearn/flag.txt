@@ -407,5 +407,10 @@ Programming:
 		flag: CTFlearn{Hyderabad_Telugu}
 		solution: je = jump if equal, jne = jump if not equal, ja = jump if first operand is greater, jb = jump if fitst operand is less than second. al lower bit, ah is higher bit of ax register. 
 
+	Impossible equation:
+		challenge no: 1234
+		flag: CTFlearn{ju5t_4_m0dul0_3qu4t10n}
+		Solution : binary reverse multiplication with the answer buffer of same size. python code github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/Impossible_equation/Impossible.py
+
 	
 
