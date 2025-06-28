@@ -8,3 +8,7 @@ Et Tu Brute :
 	solution : ftp file transfer saved the file with wireshark
 
 
+A Nice Place in Italy:
+	flag: PAYATU{f0ll1n4_1n_4ction}
+	solution : if you follow actions of the docx it was trying to connecting to a link.
+
