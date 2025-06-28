@@ -1,0 +1,5 @@
+Flight of the Lurk3r :
+	flag : PAYATU{088858b0048b014e450d40bade8cb89d}
+	solution: md5sum filename; to generate md5 hash
+
+
