@@ -30,5 +30,5 @@
 	"28-06-2025 11:37" : {"platform": "ctf.payatu.com", "CTF": "Flight of the Lurk3r", "flag": "PAYATU{088858b0048b014e450d40bade8cb89d}", "difficulty": "Easy", "link": "PAYATU HIRING CTF COMPETETION 2025", "comment": "md5sum"},
 	"28-06-2025 13:16" : {"platform": "ctf.payatu.com", "CTF": "Et Tu Brute", "flag": "PAYATU{Ex7R4c7_Th3_f1L3S}", "difficulty": "Easy", "link": "PAYATU HIRING CTF COMPETETION 2025", "comment": "ftp file download, wireshark"},
 	"28-06-2025 13:55" : {"platform": "ctf.payatu.com", "CTF": "A Nice Place in Italy", "flag": "PAYATU{f0ll1n4_1n_4ction}", "difficulty": "Medium", "link": "PAYATU HIRING CTF COMPETETION 2025", "comment": "malware analysis|sandbox|follow actions|docx"},
-	"15-07-2025 23:00" : {"platform": "ctflearn", "CTF": "Image Editing", "flag": "1_kn3W_tH3_r3D_w4s_0ff", "difficulty": "hard", "link": "https://ctflearn.com/challenge/717", "comment": "zsteg, zsteg -E"}
+	"15-07-2025 23:00" : {"platform": "ctflearn", "CTF": "Image Editing", "flag": "1_kn3W_tH3_r3D_w4s_0ff", "difficulty": "hard", "points": 70, "link": "https://ctflearn.com/challenge/717", "comment": "zsteg, zsteg -E"}
 }
