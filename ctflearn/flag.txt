@@ -364,6 +364,10 @@ Cryptography:
 		flag: flag{p0lynom1als_4r3_k00l}
 		solution: the polynomial represents a banary number. just convert it back to binary then Decimal and then ASCII text. python code --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/Polycrypto/polycrypto.py
 
+	Image Editing:
+		challenge no: 717
+		flag: 1_kn3W_tH3_r3D_w4s_0ff
+		solution: using zsteg found a png file extracted data using `zsteg -E "b1,r,lsb,xy" final.png > another.png`. then use the zsteg on the extracted png file to get the flag.
 
 
 
