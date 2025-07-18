@@ -234,7 +234,10 @@ Miscellaneous:
         flag: CTFlearn{cNi76bV2IVERlh97hP}
         solution: search the ip in wikipedia. found the flag part in the wiki page.
 
-
+    QR Code:
+        challenge no: 228
+        flag: CTFlearn{n0_body_f0rget_qr_code}
+        solution: scan the qr --> got base64 --> decode base64 code --> meaningless maybe rot13 --> decode with rot13 to get the message.
 
 
 
