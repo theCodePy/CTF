@@ -447,3 +447,28 @@ Programming:
 		flag: CTFlearn{6662}
 		solution: count the no of zero and one the condition says OR operation. solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/SimpleProgramming/numberof10.py
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reverse Engineering:
+	PIN:
+		challenge no: 379
+		flag: CTFlearn{333333}
+		solution: open ghidra to analys the binary found a variable name "valid" which is a global variable equal to 333333. that's the pin.
+
+	
