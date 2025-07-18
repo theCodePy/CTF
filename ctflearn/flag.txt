@@ -239,6 +239,10 @@ Miscellaneous:
         flag: CTFlearn{n0_body_f0rget_qr_code}
         solution: scan the qr --> got base64 --> decode base64 code --> meaningless maybe rot13 --> decode with rot13 to get the message.
 
+    What could this be?
+		challenge no: 268
+		flag: flag{5uch_j4v4_5crip7_much_w0w}
+		solution: the code is written in jsfuck language, online jsfuck decoder can help.
 
 
 
@@ -387,7 +391,6 @@ Cryptography:
 		challenge no: 121
 		flag: ABCTF{pr3tty_b4s1c_r1ght?}
 		solution: decode base64 32 times to get the flag.
-
 
 
 
