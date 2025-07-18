@@ -229,6 +229,10 @@ Miscellaneous:
         flag: CTFlearn{r0b0ts_4r3_th3_futur3}
         solution: robots.txt in ctflearn.com/robots.txt , browser the html page to find the flag.
 
+    Wikipedia:
+        challenge no: 168
+        flag: CTFlearn{cNi76bV2IVERlh97hP}
+        solution: search the ip in wikipedia. found the flag part in the wiki page.
 
 
 
