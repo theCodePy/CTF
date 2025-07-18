@@ -224,7 +224,10 @@ Miscellaneous:
 		flag: CTFlearn{today@nasa.gov}
 		solution: waybackmachine helped me to solve this.
 
-
+	Where Can My Robot Go?:
+        challenge no: 107
+        flag: CTFlearn{r0b0ts_4r3_th3_futur3}
+        solution: robots.txt in ctflearn.com/robots.txt , browser the html page to find the flag.
 
 
 
