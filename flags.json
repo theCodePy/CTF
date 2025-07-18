@@ -35,5 +35,6 @@
 	"18-07-2025 12:39" : {"platform": "ctflearn.com", "CTF": "Wikipedia", "flag": "CTFlearn{cNi76bV2IVERlh97hP}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/168", "comment": "Miscellaneous, OSINT, Wikipedia"},
 	"18-07-2025 01:00" : {"platform": "ctflearn.com", "CTF": "QR Code", "flag": "CTFlearn{n0_body_f0rget_qr_code}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/228", "comment": "Miscellaneous, qr, base64, rot13"},
 	"18-07-2025 21:05" : {"platform": "ctflearn.com", "CTF": "Simple Programming", "flag": "CTFlearn{6662}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/174", "comment": "Programming"},
-	"18-07-2025 21:30" : {"platform": "ctflearn.com", "CTF": "Lazy Game Challenge", "flag": "CTFlearn{d9029a08c55b936cbc9a30_i_wish_real_betting_games_were_like_this!}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/691", "comment": "Binary, bet with negetive so losing is winning"}
+	"18-07-2025 21:30" : {"platform": "ctflearn.com", "CTF": "Lazy Game Challenge", "flag": "CTFlearn{d9029a08c55b936cbc9a30_i_wish_real_betting_games_were_like_this!}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/691", "comment": "Binary, bet with negetive so losing is winning"},
+	"18-07-2025 21:43" : {"platform": "ctflearn.com", "CTF": "So many 64s", "flag": "ABCTF{pr3tty_b4s1c_r1ght?}", "difficulty": "Hard", "points": 80, "link": "https://ctflearn.com/challenge/121", "comment": "Cryptography, base64 32 times"}
 }
