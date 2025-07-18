@@ -416,5 +416,8 @@ Programming:
 		flag: CTFlearn{ju5t_4_m0dul0_3qu4t10n}
 		Solution : binary reverse multiplication with the answer buffer of same size. python code github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/Impossible_equation/Impossible.py
 
-	
+	Simple Programming:
+		challenge no: 174
+		flag: CTFlearn{6662}
+		solution: count the no of zero and one the condition says OR operation. solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/SimpleProgramming/numberof10.py
 
