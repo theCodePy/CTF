@@ -265,7 +265,7 @@ Binary:
 		flag: CTFlearn{d9029a08c55b936cbc9a30_i_wish_real_betting_games_were_like_this!}
 		Solution: bet with a negetive value and after losing the game it will do this operation a - (-b) so a+b. losing the game is winning the game. `nc thekidofarcrania.com 10001`
 
-	
+
 
 
 
@@ -383,6 +383,10 @@ Cryptography:
 		flag: 1_kn3W_tH3_r3D_w4s_0ff
 		solution: using zsteg found a png file extracted data using `zsteg -E "b1,r,lsb,xy" final.png > another.png`. then use the zsteg on the extracted png file to get the flag.
 
+	So many 64s:
+		challenge no: 121
+		flag: ABCTF{pr3tty_b4s1c_r1ght?}
+		solution: decode base64 32 times to get the flag.
 
 
 
