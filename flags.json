@@ -32,5 +32,6 @@
 	"28-06-2025 13:55" : {"platform": "ctf.payatu.com", "CTF": "A Nice Place in Italy", "flag": "PAYATU{f0ll1n4_1n_4ction}", "difficulty": "Medium", "link": "PAYATU HIRING CTF COMPETETION 2025", "comment": "malware analysis|sandbox|follow actions|docx"},
 	"15-07-2025 23:00" : {"platform": "ctflearn", "CTF": "Image Editing", "flag": "1_kn3W_tH3_r3D_w4s_0ff", "difficulty": "hard", "points": 70, "link": "https://ctflearn.com/challenge/717", "comment": "zsteg, zsteg -E"},
 	"18-07-2025 11:30" : {"platform": "ctflearn.com", "CTF": "Where Can My Robot Go?", "flag": "CTFlearn{r0b0ts_4r3_th3_futur3}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/107", "comment": "Miscellaneous, web, crawling bot."},
-	"18-07-2025 12:39" : {"platform": "ctflearn.com", "CTF": "Wikipedia", "flag": "CTFlearn{cNi76bV2IVERlh97hP}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/168", "comment": "Miscellaneous, OSINT, Wikipedia"}
+	"18-07-2025 12:39" : {"platform": "ctflearn.com", "CTF": "Wikipedia", "flag": "CTFlearn{cNi76bV2IVERlh97hP}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/168", "comment": "Miscellaneous, OSINT, Wikipedia"},
+	"18-07-2025 01:00" : {"platform": "ctflearn.com", "CTF": "QR Code", "flag": "CTFlearn{n0_body_f0rget_qr_code}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/228", "comment": "Miscellaneous, qr, base64, rot13"}
 }
