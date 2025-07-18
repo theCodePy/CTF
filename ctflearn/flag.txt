@@ -392,6 +392,11 @@ Cryptography:
 		flag: ABCTF{pr3tty_b4s1c_r1ght?}
 		solution: decode base64 32 times to get the flag.
 
+	Encryption Master:
+		challenge no: 243
+		flag: CTF{I_AM_PROUD_OF_YOU}
+		solution: base64 --> from hex to ascii --> from binary to ascii --> base64 
+
 
 
 
