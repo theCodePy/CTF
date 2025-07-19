@@ -41,5 +41,5 @@
 	"18-07-2025 22:10" : {"platform": "ctflearn.com", "CTF": "Encryption Master", "flag": "CTF{I_AM_PROUD_OF_YOU}", "difficulty": "Hard", "points": 90, "link": "https://ctflearn.com/challenge/243", "comment": "Cryptography, base64, hex, binary"},
 	"19-07-2025 00:08" : {"platform": "ctflearn.com", "CTF": "PIN", "flag": "CTFlearn{333333}", "difficulty": "Medium", "points": 60, "link": "https://ctflearn.com/challenge/379", "comment": "ReverseEngineering, global variable"},
 	"19-07-2025 16:40" : {"platform": "ctflearn.com", "CTF": "Image Magic", "flag": "flag{cool_right?}", "difficulty": "Hard", "points": 70, "link": "https://ctflearn.com/challenge/89", "comment": "Image pixel editing, python, PIL"},
-	"19-07-2025 16:57" : {"platform": "ctflearn.com", "CTF": "Symbolic Decimals", "flag": "CTF{Star_._Wars_._For_._Life}", "difficulty": "Hard", "points": 90, "link": "https://ctflearn.com/challenge/231", "comment": "Cryptography, symbol to deciamal to ascii"}
+	"19-07-2025 16:57" : {"platform": "ctflearn.com", "CTF": "Symbolic Decimals", "flag": "CTF{Star_._Wars_._For_._Life}", "difficulty": "Hard", "points": 80, "link": "https://ctflearn.com/challenge/231", "comment": "Cryptography, symbol to deciamal to ascii"}
 }
