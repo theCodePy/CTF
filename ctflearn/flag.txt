@@ -414,6 +414,10 @@ Cryptography:
 		flag: CTF{I_AM_PROUD_OF_YOU}
 		solution: base64 --> from hex to ascii --> from binary to ascii --> base64 
 
+	RSA Twins!:
+		challenge no: 484
+		flag: flag{i_l0v3_tw1N_pr1m3s}
+		Solution: we can easily factorise the n. as primes are too close. Let s = ( p + q) / 2 and t = ( p - q) / 2. Note that s is close to √n. Then, n = p * q = (s + t) * (s - t) = s2 - t2.  n=s2-t2. If s is close to √n, then t2 = s2 - n and finding t would lead to p = s + t and q = s - t. Note that (s2 -n) is a perfect square. solution python code github_link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/RSATwins/twin.py
 
 
 
