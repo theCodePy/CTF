@@ -244,6 +244,23 @@ Miscellaneous:
 		flag: flag{5uch_j4v4_5crip7_much_w0w}
 		solution: the code is written in jsfuck language, online jsfuck decoder can help.
 
+	Ambush Mission:
+		challenge no: 274
+		flag: CTFlearn{m3Et_me_4t_12_aM}
+		solution: `java -jar stegsolve.jar` . click left or right arrow to see the changes. finnaly got the morrred base64 string at Red plane 0.
+
+	
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -457,7 +474,7 @@ Programming:
 		flag: CTF{Star_._Wars_._For_._Life}
 		solution: just convert the symbols into number, and then those decimal number into ascii. simple.. solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/SymbolicDecimals/SymbolicDec_decryptor.py
 
-	
+
 
 
 
