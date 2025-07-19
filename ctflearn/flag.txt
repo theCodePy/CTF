@@ -452,7 +452,12 @@ Programming:
 		flag: flag{cool_right?}
 		solution: using PIL librery in python. `img=Image.open("out copy.jpg")` # to open the img. `pix = img.load()` to load pixel `Image.new("RGB" (w, h))` to open new. `pix[w, h]` to access or assignment. solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/ImageMagic/imageMagic.py
 
+	Symbolic Decimals:
+		challenge no: 231
+		flag: CTF{Star_._Wars_._For_._Life}
+		solution: just convert the symbols into number, and then those decimal number into ascii. simple.. solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/SymbolicDecimals/SymbolicDec_decryptor.py
 
+	
 
 
 
