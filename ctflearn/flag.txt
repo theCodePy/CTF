@@ -286,6 +286,11 @@ Binary:
 		flag: CTFlearn{d9029a08c55b936cbc9a30_i_wish_real_betting_games_were_like_this!}
 		Solution: bet with a negetive value and after losing the game it will do this operation a - (-b) so a+b. losing the game is winning the game. `nc thekidofarcrania.com 10001`
 
+	RIP my bof:
+		challenge no: 1011
+		flag: CTFlearn{c0ntr0ling_r1p_1s_n0t_t00_h4rd_abjkdlfa}
+		Solution: simple buffer overflow just don't change the instruction section and update the memory address in the right place to call an inbuilt function. solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/binary/RIPmybof/attack.sh
+	
 
 
 
