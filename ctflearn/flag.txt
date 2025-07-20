@@ -259,7 +259,11 @@ Miscellaneous:
 		flag: CTFlearn{s0_n0W_y0uv3_M3t_J0hN}
 		solution: john the ripper hellped use these options `zip2john enc.zip > hash`,  `--wordlist=wordlist`, `--incremental=Digits` to solve the challenge.
 
-	
+	Rock Paper Scissors:
+		challenge no: 885
+		flag: CTFlearn{r0ck_p4per_skiss0rs}
+		solution: use two connection and check the responces. the responses are identical all the time.
+
 	
 	
 
