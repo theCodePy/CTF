@@ -249,6 +249,12 @@ Miscellaneous:
 		flag: CTFlearn{m3Et_me_4t_12_aM}
 		solution: `java -jar stegsolve.jar` . click left or right arrow to see the changes. finnaly got the morrred base64 string at Red plane 0.
 
+	Help Bity:
+		challenge no: 454
+		flag: CTFLearn{b1nary_1s_awes0me}
+		solution: xored with 1.
+
+	
 	
 
 
