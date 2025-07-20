@@ -254,6 +254,12 @@ Miscellaneous:
 		flag: CTFLearn{b1nary_1s_awes0me}
 		solution: xored with 1.
 
+	My Friend John:
+		challenge no: 1135
+		flag: CTFlearn{s0_n0W_y0uv3_M3t_J0hN}
+		solution: john the ripper hellped use these options `zip2john enc.zip > hash`,  `--wordlist=wordlist`, `--incremental=Digits` to solve the challenge.
+
+	
 	
 	
 
