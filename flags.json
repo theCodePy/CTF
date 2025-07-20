@@ -44,5 +44,6 @@
 	"19-07-2025 16:57" : {"platform": "ctflearn.com", "CTF": "Symbolic Decimals", "flag": "CTF{Star_._Wars_._For_._Life}", "difficulty": "Hard", "points": 80, "link": "https://ctflearn.com/challenge/231", "comment": "Cryptography, symbol to deciamal to ascii"},
 	"19-07-2025 19:27" : {"platform": "ctflearn.com", "CTF": "Ambush Mission", "flag": "CTFlearn{m3Et_me_4t_12_aM}", "difficulty": "Medium", "points": 60, "link": "https://ctflearn.com/challenge/274", "comment": "miscellaneous, stegsolver, red plane 0"},
 	"19-07-2025 23:03" : {"platform": "ctflearn.com", "CTF": "RSA Twins!", "flag": "flag{i_l0v3_tw1N_pr1m3s}", "difficulty": "Hard", "points": 90, "link": "https://ctflearn.com/challenge/484", "comment": "Cryptography, RSA, close primes, Eucleadian Factorization"},
-	"19-07-2025 23:41" : {"platform": "ctflearn.com", "CTF": "RIP my bof", "flag": "CTFlearn{c0ntr0ling_r1p_1s_n0t_t00_h4rd_abjkdlfa}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/1011", "comment": "Binary, Buffer over flow(BOF)"}
+	"19-07-2025 23:41" : {"platform": "ctflearn.com", "CTF": "RIP my bof", "flag": "CTFlearn{c0ntr0ling_r1p_1s_n0t_t00_h4rd_abjkdlfa}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/1011", "comment": "Binary, Buffer over flow(BOF)"},
+	"20-07-2025 21:33" : {"platform": "ctflearn.com", "CTF": "Help Bity", "flag": "CTFLearn{b1nary_1s_awes0me}", "difficulty": "Medium", "points": 60, "link": "https://ctflearn.com/challenge/454", "comment": "Miscellaneous, xored with 1"}
 }
