@@ -48,5 +48,6 @@
 	"20-07-2025 21:33" : {"platform": "ctflearn.com", "CTF": "Help Bity", "flag": "CTFLearn{b1nary_1s_awes0me}", "difficulty": "Medium", "points": 60, "link": "https://ctflearn.com/challenge/454", "comment": "Miscellaneous, xored with 1"},
 	"20-07-2025 22:11" : {"platform": "ctflearn.com", "CTF": "My Friend John", "flag": "CTFlearn{s0_n0W_y0uv3_M3t_J0hN}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/1135", "comment": "Miscellaneous, john the ripper"},
 	"20-07-2025 22:36" : {"platform": "ctflearn.com", "CTF": "Rock Paper Scissors", "flag": "CTFlearn{r0ck_p4per_skiss0rs}", "difficulty": "Medium", "points": 40, "link": "https://ctflearn.com/challenge/855", "comment": "Miscellaneous, nc"},
-	"21-07-2025 00:40" : {"platform": "ctflearn.com", "CTF": "The Simpsons", "flag": "CTFlearn{wearenumberone}", "difficulty": "Hard", "points": 80, "link": "https://ctflearn.com/challenge/160", "comment": "Cryptography, octal number, Caesar cipher"}
+	"21-07-2025 00:40" : {"platform": "ctflearn.com", "CTF": "The Simpsons", "flag": "CTFlearn{wearenumberone}", "difficulty": "Hard", "points": 80, "link": "https://ctflearn.com/challenge/160", "comment": "Cryptography, octal number, Caesar cipher"},
+	"26-07-2025 13:27" : {"platform": "ctflearn.com", "CTF": "RE_verseDIS", "flag": "AbCTF{r3vers1ng_dud3}", "difficulty": "Medium", "points": 50, "link": "https://ctflearn.com/challenge/188", "comment": "ReverseEngineering, gdb, ghidra, analys variable value"},
 }
