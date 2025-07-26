@@ -531,4 +531,7 @@ Reverse Engineering:
 		flag: CTFlearn{333333}
 		solution: open ghidra to analys the binary found a variable name "valid" which is a global variable equal to 333333. that's the pin.
 
-
+	RE_verseDIS:
+		challenge no: 188
+		flag: AbCTF{r3vers1ng_dud3}
+		solution: using gdb and ghidra. checking global variables. info variables ^name$. x/s view string. x/22d view integer array of 22 dicimal values. break to set breakpoint. next to execute 1 line in c. nexti to execute 1 assambly instructions.
