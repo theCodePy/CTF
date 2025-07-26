@@ -1,0 +1,9 @@
+basicpentestingjt:
+	* found open ports via nmap (22, 80, 139, 445)
+	* found hidden directory '\development' via `ffuf` command
+	* smbclient -l reveals a public share. found two usernames "jan" and 'kay'
+	* found password for `jan` via `hydra` command `jan:armando`
+	* using `linpeas.sh` on the machine got an open id_rsa for kay
+	* using `john` cracked the password for `id_rsa` for `kay`. the password was 'beeswax'
+	* logged into the machine with `ssh -i id_rsa kay@ip_address` and password `beeswax`
+	* read pass.bak to found a long long password. `heresareallystrongpasswordthatfollowsthepasswordpolicy$$`
