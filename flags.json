@@ -52,4 +52,9 @@
 	"26-07-2025 13:27" : {"platform": "ctflearn.com", "CTF": "RE_verseDIS", "flag": "AbCTF{r3vers1ng_dud3}", "difficulty": "Medium", "points": 50, "link": "https://ctflearn.com/challenge/188", "comment": "ReverseEngineering, gdb, ghidra, analys variable value"},
 	"27-07-2025 01:09" : {"platform": "tryhackme.com", "room": "basicpentestingjt", "final password": "heresareallystrongpasswordthatfollowsthepasswordpolicy$$", "difficulty": "Easy", "points": 180, "link": "https://tryhackme.com/room/basicpentestingjt", "comment": "ffuf, smbclient, hydra, ssh, linpease, john"},
 	"30-07-2025 10:54" : {"platform": "tryhackme.com", "room": "furthernmap", "Completed Tasks": 15, "roomType": "walkthrough", "difficulty": "Easy", "points": 328, "link": "https://tryhackme.com/room/furthernmap", "comment": "learning nmap"},
+	"02-08-2025 00:00" : {"platform": "CyberneogenCTF2025", "CTF": "Dead Air", "flag": "CYGEN{1t_15_55tv_3nc0d1n9}", "points": 100, "difficulty": "Easy", "comment": "sstv, stegnography"},
+	"02-08-2025 00:00" : {"platform": "CyberneogenCTF2025", "CTF": "Attack!!!", "flag": "CYGEN{xss_3xp0s3d_m3}", "points": 100, "difficulty": "Easy", "comment": "foreinsics, wireshark"},
+	"02-08-2025 00:00" : {"platform": "CyberneogenCTF2025", "CTF": "Seed of Doubt", "flag": "CYGEN{57r34m_c1ph3r5_h473_533d_r3us3}", "points": 200, "difficulty": "Easy", "comment": "Crypto, foreinsics, exiftool"},
+	"02-08-2025 00:00" : {"platform": "CyberneogenCTF2025", "CTF": "Shrouded Cipher", "flag": "CYGEN{shrouded_vigenere_master}", "points": 300, "difficulty": "Hard", "comment": "Cryptography, vigenre cipher"},
+	"05-08-2025 15:49" : {"platform": "tryhackme.com", "room": "Simple CTF", "user flag": "G00d j0b, keep up!", "root flag": "W3ll d0n3. You made it!", "difficulty": "Easy", "points": 300, "link": "https://tryhackme.com/room/easyctf", "comment": "sqli, vim"}
 }
