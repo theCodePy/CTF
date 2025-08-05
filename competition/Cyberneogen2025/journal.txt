@@ -1,0 +1,27 @@
+
+
+Dead Air:
+	flag: CYGEN{1t_15_55tv_3nc0d1n9}
+	solution: sstv -d audio.wav -o result.png  found the flag in the png file
+
+
+Attack!!!:
+	flag: CYGEN{xss_3xp0s3d_m3}
+	solution: in wireshack I found an url with base64 ecoded data
+
+
+Seed of Doubt:
+	flag: CYGEN{57r34m_c1ph3r5_h473_533d_r3us3}
+	solution: the secrete seed was in the jpg image comment. using rot13 on "fgngvp-qroht-frrq" found from the comment to get the seed.
+
+Shrouded Cipher:
+	flag: CYGEN{shrouded_vigenere_master}
+	solution: the flag base encrypted with vigenere cipher then base64 encoded. using grep and english words dictionary to get the flag.
+
+reverse1:
+	flag: CYGEN{R3v3r5e_3asy(f0r_n0w)}
+	solution: the mystrie data was a global variable just take those values and xor it with the values found. until it's become zero.
+
+reverse2:
+	flag: CYGEN{R3v3r5e_N0t_5o_e4sy_n0w_is_it??}
+	solution: easy same as reverse1. just do the operation without the rand() funciton.
