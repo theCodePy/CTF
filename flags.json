@@ -56,5 +56,7 @@
 	"02-08-2025 00:00" : {"platform": "CyberneogenCTF2025", "CTF": "Attack!!!", "flag": "CYGEN{xss_3xp0s3d_m3}", "points": 100, "difficulty": "Easy", "comment": "foreinsics, wireshark"},
 	"02-08-2025 00:00" : {"platform": "CyberneogenCTF2025", "CTF": "Seed of Doubt", "flag": "CYGEN{57r34m_c1ph3r5_h473_533d_r3us3}", "points": 200, "difficulty": "Easy", "comment": "Crypto, foreinsics, exiftool"},
 	"02-08-2025 00:00" : {"platform": "CyberneogenCTF2025", "CTF": "Shrouded Cipher", "flag": "CYGEN{shrouded_vigenere_master}", "points": 300, "difficulty": "Hard", "comment": "Cryptography, vigenre cipher"},
+	"02-08-2025 00:00" : {"platform": "CyberneogenCTF2025", "CTF": "reverse1", "flag": "CYGEN{R3v3r5e_3asy(f0r_n0w)}", "points": 100, "difficulty": "Easy", "comment": "ReverseEngineering"},
+	"02-08-2025 00:00" : {"platform": "CyberneogenCTF2025", "CTF": "reverse2", "flag": "CYGEN{R3v3r5e_N0t_5o_e4sy_n0w_is_it??}", "points": 200, "difficulty": "Easy", "comment": "ReverseEngineering"},
 	"05-08-2025 15:49" : {"platform": "tryhackme.com", "room": "Simple CTF", "user flag": "G00d j0b, keep up!", "root flag": "W3ll d0n3. You made it!", "difficulty": "Easy", "points": 300, "link": "https://tryhackme.com/room/easyctf", "comment": "sqli, vim"}
 }
