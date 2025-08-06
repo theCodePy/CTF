@@ -58,5 +58,6 @@
 	"02-08-2025 00:00" : {"platform": "CyberneogenCTF2025", "CTF": "Shrouded Cipher", "flag": "CYGEN{shrouded_vigenere_master}", "points": 300, "difficulty": "Hard", "comment": "Cryptography, vigenre cipher"},
 	"02-08-2025 00:00" : {"platform": "CyberneogenCTF2025", "CTF": "reverse1", "flag": "CYGEN{R3v3r5e_3asy(f0r_n0w)}", "points": 100, "difficulty": "Easy", "comment": "ReverseEngineering"},
 	"02-08-2025 00:00" : {"platform": "CyberneogenCTF2025", "CTF": "reverse2", "flag": "CYGEN{R3v3r5e_N0t_5o_e4sy_n0w_is_it??}", "points": 200, "difficulty": "Easy", "comment": "ReverseEngineering"},
-	"05-08-2025 15:49" : {"platform": "tryhackme.com", "room": "Simple CTF", "user flag": "G00d j0b, keep up!", "root flag": "W3ll d0n3. You made it!", "difficulty": "Easy", "points": 300, "link": "https://tryhackme.com/room/easyctf", "comment": "sqli, vim"}
+	"05-08-2025 15:49" : {"platform": "tryhackme.com", "room": "Simple CTF", "user flag": "G00d j0b, keep up!", "root flag": "W3ll d0n3. You made it!", "difficulty": "Easy", "points": 300, "link": "https://tryhackme.com/room/easyctf", "comment": "sqli, vim"},
+	"06-08-2025 13:11" : {"platform": "thundercipher.tech", "room": "Thunder01", "user flag": "ThunderCipher{FTp_Gr4nT3D!!}", "root flag": "ThunderCipher{FTp_Gr4nT3D!!}", "difficulty": "Easy", "points": 10, "link": "https://tryhackme.com/room/7", "comment": "ftp, protfpd 1.3.3c, backdoor"},
 }
