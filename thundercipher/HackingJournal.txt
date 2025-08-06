@@ -1,0 +1,10 @@
+thunder01:
+	nmap scan found 5555 port open
+	ProFTPD 1.3.3c  I think It's vulnerable
+	just connect it with:
+		$ nc <ip-address> <port>
+		HELP ACIDBITCHEZ
+	you are root now. 
+	the backdoor was implemented by malecious hackers who compromized the ftp main repo. 
+	root flag: ThunderCipher{FTp_Gr4nT3D!!}
+
