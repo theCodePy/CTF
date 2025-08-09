@@ -60,4 +60,5 @@
 	"02-08-2025 00:00" : {"platform": "CyberneogenCTF2025", "CTF": "reverse2", "flag": "CYGEN{R3v3r5e_N0t_5o_e4sy_n0w_is_it??}", "points": 200, "difficulty": "Easy", "comment": "ReverseEngineering"},
 	"05-08-2025 15:49" : {"platform": "tryhackme.com", "room": "Simple CTF", "user flag": "G00d j0b, keep up!", "root flag": "W3ll d0n3. You made it!", "difficulty": "Easy", "points": 300, "link": "https://tryhackme.com/room/easyctf", "comment": "sqli, vim"},
 	"06-08-2025 13:11" : {"platform": "thundercipher.tech", "room": "Thunder01", "user flag": "ThunderCipher{FTp_Gr4nT3D!!}", "root flag": "ThunderCipher{FTp_Gr4nT3D!!}", "difficulty": "Easy", "points": 10, "link": "https://tryhackme.com/room/7", "comment": "ftp, protfpd 1.3.3c, backdoor"},
+	"09-08-2025 20:22" : {"platform": "ctflearn", "CTF": "Calculat3 M3", "flag": "ctf{watch_0ut_f0r_th3_m0ng00s3}", "difficulty": "Hard", "points": 80, "link": "https://ctflearn.com/challenge/150", "comment": "web exploitation, php, linux command"},
 }
