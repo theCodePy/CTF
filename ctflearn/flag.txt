@@ -205,7 +205,12 @@ WEB:
 		flag: flag{p0st_d4t4_4ll_d4y}
 		solution: a simple curl command solved the challenge.  `curl -X POST -d "username=admin&password=71urlkufpsdnlkadsf" -v http://165.227.106.113/post.php`
 
+	Calculat3 M3:
+		challenge no: 150
+		flag: ctf{watch_0ut_f0r_th3_m0ng00s3}
+		solution: send `;ls` as an expression gives the list of file names in that directory. don't know how and why?
 
+	
 
 
 
