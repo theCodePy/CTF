@@ -210,7 +210,7 @@ WEB:
 		flag: ctf{watch_0ut_f0r_th3_m0ng00s3}
 		solution: send `;ls` as an expression gives the list of file names in that directory. don't know how and why?
 
-	
+
 
 
 
@@ -450,7 +450,12 @@ Cryptography:
 		flag: CTFlearn{wearenumberone}
 		solution: string image.jpg --> found clues about keys --> octal key number to decimal --> printable character converted into ascii --> found another clue --> what does maggie cost in simpson // 8  + 4 --> key=key+key+(key-4) --> decrypt with viganere chipher. found the flag. solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/TheSimpsons/decode.py
 
+	XOR Is Friend Not Food:
+		challenge no: 165
+		flag: ctflearn{xor_is_the_goop}
+		solution: simple reverse the xor key to find the key, the key was `jowls` solution link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/XORIsFriendNotFood/xorisfood.py
 
+	
 
 
 
