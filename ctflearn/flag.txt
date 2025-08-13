@@ -516,8 +516,12 @@ Programming:
 		flag: CTF{Star_._Wars_._For_._Life}
 		solution: just convert the symbols into number, and then those decimal number into ascii. simple.. solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/SymbolicDecimals/SymbolicDec_decryptor.py
 
+	Python Reversal:
+		challenge no: 449
+		flag: cyber{Fl4g_b4ckw4rds_15_g4lF}
+		solution: python reverse successfully it was easy solution link github --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/PythonReversal/reversed.py
 
-
+	
 
 
 
