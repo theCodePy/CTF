@@ -63,4 +63,5 @@
 	"09-08-2025 20:22" : {"platform": "ctflearn", "CTF": "Calculat3 M3", "flag": "ctf{watch_0ut_f0r_th3_m0ng00s3}", "difficulty": "Hard", "points": 80, "link": "https://ctflearn.com/challenge/150", "comment": "web exploitation, php, linux command"},
 	"09-08-2025 20:41" : {"platform": "ctflearn", "CTF": "XOR Is Friend Not Food", "flag": "ctflearn{xor_is_the_goop}", "difficulty": "Hard", "points": 100, "link": "https://ctflearn.com/challenge/165", "comment": "cryptography, xor"},
 	"11-08-2025 10:44" : {"platform": "ctflearn", "CTF": "Get Into Command Mission", "flag": "CTFlearn{Arm0uR_pPTi4}", "difficulty": "Hard", "points": 70, "link": "https://ctflearn.com/challenge/278", "comment": "Miscellaneous, binary, base64 -> png"},
+	"11-08-2025 10:44" : {"platform": "ctflearn", "CTF": "Python Reversal", "flag": "cyber{Fl4g_b4ckw4rds_15_g4lF}", "difficulty": "Hard", "points": 80, "link": "https://ctflearn.com/challenge/449", "comment": "Programming, python"}
 }
