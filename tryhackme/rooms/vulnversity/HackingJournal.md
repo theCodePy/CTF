@@ -52,6 +52,11 @@ all php exetentions:
 .php5
 .phtml
 
+tried all extentions with burp intruder.
+only .phtml successfully uploaded.
+
+got the php reverseshell.
+
 
 found the user flag: 
 /home/bill/user.txt:
