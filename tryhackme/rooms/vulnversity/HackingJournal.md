@@ -1,5 +1,8 @@
 # Vulnversity
 
+roomlink:
+https://tryhackme.com/room/vulnversity
+
 ## task 2 
  Q. Scan the box; how many ports are open?
  A. 6
