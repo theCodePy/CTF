@@ -531,7 +531,10 @@ Programming:
 		flag: CTFlearn{pr0gr4mm1ng_pr0gr4mm1ng_l4ngu4g3s?}
 		solution: just program the stack with the information that's all. solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/Programmingalanguage/stack.py
 
-
+	Is it the Flag? (JAVA):
+		challenge no: 197
+		flag: 0gHzxY
+		solution: wrote java code for the first time.. too many manual statements. github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/IsittheFlagJAVA/IsItTheFlag.java
 
 
 
