@@ -521,7 +521,10 @@ Programming:
 		flag: cyber{Fl4g_b4ckw4rds_15_g4lF}
 		solution: python reverse successfully it was easy solution link github --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/PythonReversal/reversed.py
 
-	
+	The Adventures of Boris Ivanov Part 2:
+		challenge no: 382
+		flag: flag{th3_KGB_l0v3s_CTF}
+		solution: using Image from PIL in python solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/TheAdventuresofBorisIvanovPart2/glue_photo.py
 
 
 
