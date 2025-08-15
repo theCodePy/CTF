@@ -526,6 +526,10 @@ Programming:
 		flag: flag{th3_KGB_l0v3s_CTF}
 		solution: using Image from PIL in python solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/TheAdventuresofBorisIvanovPart2/glue_photo.py
 
+	Programming a language:
+		challenge no: 1050
+		flag: CTFlearn{pr0gr4mm1ng_pr0gr4mm1ng_l4ngu4g3s?}
+		solution: just program the stack with the information that's all. solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/Programmingalanguage/stack.py
 
 
 
