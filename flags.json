@@ -68,5 +68,6 @@
 	"15-08-2025 11:10" : {"platform": "ctflearn", "CTF": "The Adventures of Boris Ivanov Part 2", "flag": "flag{th3_KGB_l0v3s_CTF}", "difficulty": "Hard", "points": 80, "link": "https://ctflearn.com/challenge/382", "comment": "Programming, python, PIL"},
 	"15-08-2025 11:35" : {"platform": "ctflearn", "CTF": "Programming a language", "flag": "CTFlearn{pr0gr4mm1ng_pr0gr4mm1ng_l4ngu4g3s?}", "difficulty": "Medium", "points": 40, "link": "https://ctflearn.com/challenge/1050", "comment": "Programming"},
 	"15-08-2025 13:00" : {"platform": "ctflearn", "CTF": "Is it the Flag? (JAVA)", "flag": "0gHzxY", "difficulty": "Hard", "points": 90, "link": "https://ctflearn.com/challenge/197", "comment": "Programming, java, bruteforce hashcode()"},
-	"16-08-2025 14:00" : {"platform": "ScriptCTF2025", "CTF": "RSA-1", "flag": "scriptCTF{y0u_f0und_mr_yu's_s3cr3t_m3g_12a4e4}", "section": "Crypto", "points": 248, "comment": "Broadcast Attack on rsa, Håstad’s Broadcast Attack"}
+	"16-08-2025 14:00" : {"platform": "ScriptCTF2025", "CTF": "RSA-1", "flag": "scriptCTF{y0u_f0und_mr_yu's_s3cr3t_m3g_12a4e4}", "section": "Crypto", "points": 248, "comment": "Broadcast Attack on rsa, Håstad’s Broadcast Attack"},
+	"16-08-2025 14:00" : {"platform": "ScriptCTF2025", "CTF": "emoji", "flag": "scriptCTF{3m0j1_3nc0d1ng_1s_w31rd_4nd_fun!1e46d}", "section": "Misc", "points": 371, "comment": "unicode character, ascii Caesar cipher key is too large"}
 }
