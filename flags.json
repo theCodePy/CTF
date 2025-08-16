@@ -72,4 +72,5 @@
 	"16-08-2025 14:00" : {"platform": "ScriptCTF2025", "CTF": "emoji", "flag": "scriptCTF{3m0j1_3nc0d1ng_1s_w31rd_4nd_fun!1e46d}", "section": "Misc", "points": 371, "comment": "unicode character, ascii Caesar cipher key is too large"},
 	"16-08-2025 15:50" : {"platform": "ScriptCTF2025", "CTF": "div", "flag": "scriptCTF{70_1nf1n17y_4nd_b3y0nd_29dae5a104d3}", "section": "Misc", "points": 195, "comment": "Decimal('Infinity')"},
 	"16-08-2025 16:48" : {"platform": "ScriptCTF2025", "CTF": "Subtract", "flag": "scriptCTF{5ub7r4c7_7h3_n01s3}", "section": "Misc", "points": 463, "comment": "image generation"},
+	"16-08-2025 17:14" : {"platform": "ScriptCTF2025", "CTF": "Secure-Server", "flag": "scriptCTF{x0r_1s_not_s3cur3!!!!}", "section": "Crypto", "points": 328, "comment": "cryptography, xor"},
 }
