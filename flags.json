@@ -67,5 +67,6 @@
 	"14-08-2025 18:30" : {"platform": "tryhackme.com", "room": "vulnversity", "user flag": "8bd7992fbe8a6ad22a63361004cfcedb", "root flag": "a58ff8579f0a9270368d33a9966c7fd5", "roomType": "walkthrough", "difficulty": "Easy", "points": 104, "link": "https://tryhackme.com/room/vulnversity", "comment": "file uploading vulnerability, suid on systemctl"},
 	"15-08-2025 11:10" : {"platform": "ctflearn", "CTF": "The Adventures of Boris Ivanov Part 2", "flag": "flag{th3_KGB_l0v3s_CTF}", "difficulty": "Hard", "points": 80, "link": "https://ctflearn.com/challenge/382", "comment": "Programming, python, PIL"},
 	"15-08-2025 11:35" : {"platform": "ctflearn", "CTF": "Programming a language", "flag": "CTFlearn{pr0gr4mm1ng_pr0gr4mm1ng_l4ngu4g3s?}", "difficulty": "Medium", "points": 40, "link": "https://ctflearn.com/challenge/1050", "comment": "Programming"},
-	"15-08-2025 13:00" : {"platform": "ctflearn", "CTF": "Is it the Flag? (JAVA)", "flag": "0gHzxY", "difficulty": "Hard", "points": 90, "link": "https://ctflearn.com/challenge/197", "comment": "Programming, java, bruteforce hashcode()"}
+	"15-08-2025 13:00" : {"platform": "ctflearn", "CTF": "Is it the Flag? (JAVA)", "flag": "0gHzxY", "difficulty": "Hard", "points": 90, "link": "https://ctflearn.com/challenge/197", "comment": "Programming, java, bruteforce hashcode()"},
+	"16-08-2025 14:00" : {"platform": "ScriptCTF2025", "CTF": "RSA-1", "flag": "scriptCTF{y0u_f0und_mr_yu's_s3cr3t_m3g_12a4e4}", "section": "Crypto", "points": 248, "comment": "Broadcast Attack on rsa, Håstad’s Broadcast Attack"}
 }
