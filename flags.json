@@ -104,4 +104,5 @@
 	"01-09-2025 16:15" : {"platform": "tryhackme.com", "room": "Burp Suite: Intruder", "Subscription": "Premium", "roomType": "walkthrough", "flag": "THM{MTMxNTg5NTUzMWM0OWRlYzUzMDVjMzJl}", "difficulty": "Medium", "points": 104, "link": "https://tryhackme.com/room/burpsuiteintruder", "comment": "Intruder"},
 	"01-09-2025 19:43" : {"platform": "tryhackme.com", "room": "Burp Suite: Other Modules", "Subscription": "Premium", "roomType": "walkthrough", "difficulty": "Easy", "points": 88, "link": "https://tryhackme.com/room/burpsuiteom", "comment": "decoder, comparer sequencer, organizer"},
 	"02-09-2025 15:31" : {"platform": "tryhackme.com", "room": "Burp Suite: Extensions", "Subscription": "Premium", "roomType": "walkthrough", "difficulty": "Easy", "points": 8, "link": "https://tryhackme.com/room/burpsuiteextensions", "comment": "burpsuit Extensions, API's"},
+	"02-09-2025 16:51" : {"platform": "tryhackme.com", "room": "Intro to LAN", "Subscription": "Premium", "roomType": "walkthrough", "flag": "THM{TOPOLOGY_FLAWS}", "difficulty": "info", "points": 152, "link": "https://tryhackme.com/room/introtolan", "comment": "topology, subnetting, ARP, DHCP"},
  }
