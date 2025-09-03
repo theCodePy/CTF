@@ -107,4 +107,5 @@
 	"02-09-2025 16:51" : {"platform": "tryhackme.com", "room": "Intro to LAN", "Subscription": "Premium", "roomType": "walkthrough", "flag": "THM{TOPOLOGY_FLAWS}", "difficulty": "info", "points": 152, "link": "https://tryhackme.com/room/introtolan", "comment": "topology, subnetting, ARP, DHCP"},
 	"02-09-2025 18:00" : {"platform": "tryhackme.com", "room": "OSI Model", "Subscription": "Premium", "roomType": "walkthrough", "flag": "THM{OSI_DUNGEON_ESCAPED}", "difficulty": "info", "points": 224, "link": "https://tryhackme.com/room/osimodelzi", "comment": "osi overview"},
 	"02-09-2025 22:11" : {"platform": "tryhackme.com", "room": "Passive Reconnaissance", "Subscription": "Free", "roomType": "walkthrough", "flag": "THM{a5b83929888ed36acb0272971e438d78}", "difficulty": "Easy", "points": 88, "link": "https://tryhackme.com/room/passiverecon", "comment": "whoami, nslookup, dig, shodan, dumpster"},
+	"03-09-2025 20:30" : {"platform": "tryhackme.com", "room": "Active Reconnaissance", "Subscription": "Free", "roomType": "walkthrough", "difficulty": "Easy", "points": 88, "link": "https://tryhackme.com/room/activerecon", "comment": "ping, traceroute, telnet, netcat"},
  }
