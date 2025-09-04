@@ -313,7 +313,7 @@ Binary:
 	RIP my bof:
 		challenge no: 1011
 		flag: CTFlearn{c0ntr0ling_r1p_1s_n0t_t00_h4rd_abjkdlfa}
-		Solution: simple buffer overflow just don't change the instruction section and update the memory address in the right place to call an inbuilt function. solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/binary/RIPmybof/attack.sh
+		Solution: simple buffer overflow just don't change the instruction section and update the memory address in the right place to call an inbuilt function. solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/binary/RIPmybof/attack.sh
 	
 
 
@@ -346,17 +346,17 @@ Cryptography:
 	Vigenere Cipher:
 		challenge no: 305
 		flag: flag{CiphersAreAwesome}
-		Solution: simple vigenere cipher, solved by my own algorithm writen years ago, https://github.com/rohan37-pro/encryption-algorithms/blob/main/vigenere_cipher.py, also can be solved by cyberchef (vigenere decode).
+		Solution: simple vigenere cipher, solved by my own algorithm writen years ago, https://github.com/theCodePy/encryption-algorithms/blob/main/vigenere_cipher.py, also can be solved by cyberchef (vigenere decode).
 
 	BruXOR:
 		challenge no: 227
 		flag: flag{y0u_Have_bruteforce_XOR}
-		solution : solved this problem by writing a python script, simple xor known plaintext attack, script link--> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/BruXOR/_xor.py
+		solution : solved this problem by writing a python script, simple xor known plaintext attack, script link--> https://github.com/theCodePy/CTF/blob/main/ctflearn/cryptography/BruXOR/_xor.py
 
 	Reverse Polarity:
 		challenge no: 230
 		flag: CTF{Bit_Flippin}
-		solution: simple binary to text conversion, solved this with python, script_Link--> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/ReversePolarity/ReversePolarity.py
+		solution: simple binary to text conversion, solved this with python, script_Link--> https://github.com/theCodePy/CTF/blob/main/ctflearn/cryptography/ReversePolarity/ReversePolarity.py
 
 	Hextroadinary:
 		challenge no: 158
@@ -406,7 +406,7 @@ Cryptography:
 	5x5 Crypto:
 		challenge no: 263
 		flag: CTF{THUMBS_UP}
-		solution: reading the description it's very easy to solve. see this solution from github: https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/5x5_Crypto/solution.txt
+		solution: reading the description it's very easy to solve. see this solution from github: https://github.com/theCodePy/CTF/blob/main/ctflearn/cryptography/5x5_Crypto/solution.txt
 
 	ALEXCTF CR2: Many time secrets:
 		challenge no: 117
@@ -416,17 +416,17 @@ Cryptography:
 	Zippy.zip:
 		challenge no: 1022
 		flag: CTFlearn{s0m3t1m35_u$1ng_h4rd_p4s5w0rd_i5_n0t_3n0ugh}
-		Solution: the encrypted zip contains very small size of plaintext (4 bytes) file so bruteforcing the plaintext possible by checking it with checksum CRC value (Cyclic Redundency Check). checksum is computed from all the contents from the entries of zip file. checksum is calculated before encryption. solution python code github_link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/Zippy.zip/computeCRC.py
+		Solution: the encrypted zip contains very small size of plaintext (4 bytes) file so bruteforcing the plaintext possible by checking it with checksum CRC value (Cyclic Redundency Check). checksum is computed from all the contents from the entries of zip file. checksum is calculated before encryption. solution python code github_link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/cryptography/Zippy.zip/computeCRC.py
 
 	CoppeRSA Lattice:
 		challenge no: 859
 		flag: CTFlearn{n0t_th4t_s3cur3_4ft3r_4ll}
-		solution: by looking into that RSA code I known that p and q are very close. so we can easily factorise the n. Let s = ( p + q) / 2 and t = ( p - q) / 2. Note that s is close to √n. Then, n = p * q = (s + t) * (s - t) = s2 - t2. If s is close to √n, then t2 = s2 - n and finding t would lead to p = s + t and q = s - t. Note that (s2 -n) is a perfect square. solution python code github_link written by me --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/CoppeRSA_Lattice/Prime_factor.py
+		solution: by looking into that RSA code I known that p and q are very close. so we can easily factorise the n. Let s = ( p + q) / 2 and t = ( p - q) / 2. Note that s is close to √n. Then, n = p * q = (s + t) * (s - t) = s2 - t2. If s is close to √n, then t2 = s2 - n and finding t would lead to p = s + t and q = s - t. Note that (s2 -n) is a perfect square. solution python code github_link written by me --> https://github.com/theCodePy/CTF/blob/main/ctflearn/cryptography/CoppeRSA_Lattice/Prime_factor.py
 
 	Polycrypto:
 		challenge no: 547
 		flag: flag{p0lynom1als_4r3_k00l}
-		solution: the polynomial represents a banary number. just convert it back to binary then Decimal and then ASCII text. python code --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/Polycrypto/polycrypto.py
+		solution: the polynomial represents a banary number. just convert it back to binary then Decimal and then ASCII text. python code --> https://github.com/theCodePy/CTF/blob/main/ctflearn/cryptography/Polycrypto/polycrypto.py
 
 	Image Editing:
 		challenge no: 717
@@ -446,17 +446,17 @@ Cryptography:
 	RSA Twins!:
 		challenge no: 484
 		flag: flag{i_l0v3_tw1N_pr1m3s}
-		Solution: we can easily factorise the n. as primes are too close. Let s = ( p + q) / 2 and t = ( p - q) / 2. Note that s is close to √n. Then, n = p * q = (s + t) * (s - t) = s2 - t2.  n=s2-t2. If s is close to √n, then t2 = s2 - n and finding t would lead to p = s + t and q = s - t. Note that (s2 -n) is a perfect square. solution python code github_link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/RSATwins/twin.py
+		Solution: we can easily factorise the n. as primes are too close. Let s = ( p + q) / 2 and t = ( p - q) / 2. Note that s is close to √n. Then, n = p * q = (s + t) * (s - t) = s2 - t2.  n=s2-t2. If s is close to √n, then t2 = s2 - n and finding t would lead to p = s + t and q = s - t. Note that (s2 -n) is a perfect square. solution python code github_link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/cryptography/RSATwins/twin.py
 
 	The Simpsons:
 		challenge no: 160
 		flag: CTFlearn{wearenumberone}
-		solution: string image.jpg --> found clues about keys --> octal key number to decimal --> printable character converted into ascii --> found another clue --> what does maggie cost in simpson // 8  + 4 --> key=key+key+(key-4) --> decrypt with viganere chipher. found the flag. solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/TheSimpsons/decode.py
+		solution: string image.jpg --> found clues about keys --> octal key number to decimal --> printable character converted into ascii --> found another clue --> what does maggie cost in simpson // 8  + 4 --> key=key+key+(key-4) --> decrypt with viganere chipher. found the flag. solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/cryptography/TheSimpsons/decode.py
 
 	XOR Is Friend Not Food:
 		challenge no: 165
 		flag: ctflearn{xor_is_the_goop}
-		solution: simple reverse the xor key to find the key, the key was `jowls` solution link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/XORIsFriendNotFood/xorisfood.py
+		solution: simple reverse the xor key to find the key, the key was `jowls` solution link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/cryptography/XORIsFriendNotFood/xorisfood.py
 
 	
 
@@ -489,7 +489,7 @@ Programming:
 	The Credit Card Fraudster:
 		challenge no: 970
 		flag: CTFlearn{5432103279251234}
-		solution: credit card validation programme. have to implement the Luhn Algorithm to valid a credit card number. 1. multiply each digit with the weight pattarn 2,1,2,1,2,1.. and so on. 2. if the product is double digit add them. 3. now add all products. 4. if the sum of all product is multiplied by 10 then the credit card number is valid. github link of solution --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/The_Credit_Card_Fraudster/fraud_card_number.py
+		solution: credit card validation programme. have to implement the Luhn Algorithm to valid a credit card number. 1. multiply each digit with the weight pattarn 2,1,2,1,2,1.. and so on. 2. if the product is double digit add them. 3. now add all products. 4. if the sum of all product is multiplied by 10 then the credit card number is valid. github link of solution --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/The_Credit_Card_Fraudster/fraud_card_number.py
 
 	AndhraPradesh Assembler Chall:
 		challenge no: 1030
@@ -499,44 +499,52 @@ Programming:
 	Impossible equation:
 		challenge no: 1234
 		flag: CTFlearn{ju5t_4_m0dul0_3qu4t10n}
-		Solution : binary reverse multiplication with the answer buffer of same size. python code github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/Impossible_equation/Impossible.py
+		Solution : binary reverse multiplication with the answer buffer of same size. python code github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/Impossible_equation/Impossible.py
 
 	Simple Programming:
 		challenge no: 174
 		flag: CTFlearn{6662}
-		solution: count the no of zero and one the condition says OR operation. solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/SimpleProgramming/numberof10.py
+		solution: count the no of zero and one the condition says OR operation. solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/SimpleProgramming/numberof10.py
 
 	Image magic:
 		challenge no: 89
 		flag: flag{cool_right?}
-		solution: using PIL librery in python. `img=Image.open("out copy.jpg")` # to open the img. `pix = img.load()` to load pixel `Image.new("RGB" (w, h))` to open new. `pix[w, h]` to access or assignment. solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/ImageMagic/imageMagic.py
+		solution: using PIL librery in python. `img=Image.open("out copy.jpg")` # to open the img. `pix = img.load()` to load pixel `Image.new("RGB" (w, h))` to open new. `pix[w, h]` to access or assignment. solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/ImageMagic/imageMagic.py
 
 	Symbolic Decimals:
 		challenge no: 231
 		flag: CTF{Star_._Wars_._For_._Life}
-		solution: just convert the symbols into number, and then those decimal number into ascii. simple.. solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/cryptography/SymbolicDecimals/SymbolicDec_decryptor.py
+		solution: just convert the symbols into number, and then those decimal number into ascii. simple.. solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/cryptography/SymbolicDecimals/SymbolicDec_decryptor.py
 
 	Python Reversal:
 		challenge no: 449
 		flag: cyber{Fl4g_b4ckw4rds_15_g4lF}
-		solution: python reverse successfully it was easy solution link github --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/PythonReversal/reversed.py
+		solution: python reverse successfully it was easy solution link github --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/PythonReversal/reversed.py
 
 	The Adventures of Boris Ivanov Part 2:
 		challenge no: 382
 		flag: flag{th3_KGB_l0v3s_CTF}
-		solution: using Image from PIL in python solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/TheAdventuresofBorisIvanovPart2/glue_photo.py
+		solution: using Image from PIL in python solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/TheAdventuresofBorisIvanovPart2/glue_photo.py
 
 	Programming a language:
 		challenge no: 1050
 		flag: CTFlearn{pr0gr4mm1ng_pr0gr4mm1ng_l4ngu4g3s?}
-		solution: just program the stack with the information that's all. solution github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/Programmingalanguage/stack.py
+		solution: just program the stack with the information that's all. solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/Programmingalanguage/stack.py
 
 	Is it the Flag? (JAVA):
 		challenge no: 197
 		flag: 0gHzxY
-		solution: wrote java code for the first time.. too many manual statements. github link --> https://github.com/rohan37-pro/CTF/blob/main/ctflearn/programming/IsittheFlagJAVA/IsItTheFlag.java
+		solution: wrote java code for the first time.. too many manual statements. github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/IsittheFlagJAVA/IsItTheFlag.java
 
+	Read in Color:
+		challenge no: 670
+		flag: flag{c0l0r_c0d3d}
+		solution: the rgb color color code pixel values in decimal are itself the ascii code. python solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/ReadinColor/read_from_color.py
 
+	Bit by Bit:
+		challenge no: 435
+		flag: 1498952
+		solution: solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/BitbyBit/bitByBit.py
 
 
 
