@@ -112,4 +112,5 @@
 	"04-09-2025 17:38" : {"platform": "tryhackme.com", "room": "Nmap Basic Port Scans", "Subscription": "Premium", "roomType": "walkthrough", "difficulty": "Easy", "points": 120, "link": "https://tryhackme.com/room/nmap02", "comment": "nmap, tcp/udp scan"},
 	"04-09-2025 18:41" : {"platform": "ctflearn.com", "CTF": "Bit by Bit", "flag": "1498952", "difficulty": "Medium", "points": 60, "link": "https://ctflearn.com/challenge/435", "comment": "Programming, bitwise operations"},
 	"05-09-2025 21:28" : {"platform": "tryhackme.com", "room": "Nmap Advanced Port Scans", "Subscription": "Premium", "roomType": "walkthrough", "difficulty": "Medium", "points": 128, "link": "https://tryhackme.com/room/nmap03", "comment": "TCP Null,FIN,Xmas,ACK,custom,window,maimon scan, spoofing and decoy scan, ideal/zombie scan, fragment packets"},
+	"07-09-2025 10:53" : {"platform": "tryhackme.com", "room": "Nmap Post Port Scans", "Subscription": "Premium", "roomType": "walkthrough", "difficulty": "Medium", "points": 72, "link": "https://tryhackme.com/room/nmap04", "comment": "service detection, os detaction, scripts, saving output"},
  }
