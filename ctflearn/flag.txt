@@ -546,7 +546,10 @@ Programming:
 		flag: 1498952
 		solution: solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/BitbyBit/bitByBit.py
 
-
+	Dawn's Lawn:
+		challenge no: 434
+		flag: 194
+		solution: formatting the input according to how she mowing to easily access values, solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/DawnsLawn/lawn_mowing.py
 
 
 
