@@ -127,4 +127,5 @@
 	"16-09-2025 20:50" : {"platform": "tryhackme.com", "room": "Metasploit: Exploitation", "Subscription": "Premium", "roomType": "walkthrough", "difficulty": "Easy", "points": 64, "link": "https://tryhackme.com/room/metasploitexploitation", "comment": "msfcole, payloads, meterpreter, msfvemon"},
 	"16-09-2025 23:20" : {"platform": "tryhackme.com", "room": "Metasploit: Meterpreter", "Subscription": "Premium", "roomType": "walkthrough", "difficulty": "Easy", "points": 72, "link": "https://tryhackme.com/room/meterpreter", "comment": "meterpreter commands"},
 	"18-09-2025 00:15" : {"platform": "ctflearn.com", "CTF": "Dawn's Lawn", "flag": "194", "difficulty": "Medium", "points": 60, "link": "https://ctflearn.com/challenge/434", "comment": "Programming, dsa"},
+	"18-09-2025 17:20" : {"platform": "ctflearn.com", "CTF": "Fabio's Nachos", "flag": "flag{f1b0n4ch0}", "difficulty": "Hard", "points": 80, "link": "https://ctflearn.com/challenge/459", "comment": "Programming, cryprography, febonacci series, ceaser cipher"}
  }
