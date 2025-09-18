@@ -551,6 +551,14 @@ Programming:
 		flag: 194
 		solution: formatting the input according to how she mowing to easily access values, solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/DawnsLawn/lawn_mowing.py
 
+	Fabio's Nachos:
+		challenge no: 459
+		flag: flag{f1b0n4ch0}
+		solution: base64 decode --> febonacci series --> add 1 --> flag. solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/FabiosNachos/DecipherFibonacii.py
+
+
+
+
 
 
 
