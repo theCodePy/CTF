@@ -561,6 +561,12 @@ Programming:
 		flag: CTFlearn{Why_Can’t_I_Sleep?}
 		solution: the pickle data was of a tree data type, after appling huffman encoding technique to decode data from the tree, I got base64 encoded flag. solution github link -->  https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/TonyStarksMessage/huffmanDecoding.py
 
+	An Old Image:
+		challenge no: 1133
+		flag: CTFlearn{how_can_swapping_columns_hide_a_qr_code}
+		solution: PIL, x,y,r,g column swapping, with PIL and ittertool, solved with python, solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/AnOldImage/fix_image.py
+
+
 
 
 
