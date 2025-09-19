@@ -566,7 +566,12 @@ Programming:
 		flag: CTFlearn{how_can_swapping_columns_hide_a_qr_code}
 		solution: PIL, x,y,r,g column swapping, with PIL and ittertool, solved with python, solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/AnOldImage/fix_image.py
 
+	Ten Thousand Hours:
+		challenge no: 161
+		flag: flag{r3ndomly_g3nerat3d_m3th0dS_FTW}
+		solution: 40 thousand lines of code, 5000 functions to encrypt the flag, yet all the function and methods have the same 3-4 type of pattern in common, follow the pattern to grab the unique values and make the decryption function for them. solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/TenThousandHours/decrypt_mucho.py
 
+	 
 
 
 
