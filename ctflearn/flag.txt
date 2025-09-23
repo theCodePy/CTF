@@ -571,7 +571,12 @@ Programming:
 		flag: flag{r3ndomly_g3nerat3d_m3th0dS_FTW}
 		solution: 40 thousand lines of code, 5000 functions to encrypt the flag, yet all the function and methods have the same 3-4 type of pattern in common, follow the pattern to grab the unique values and make the decryption function for them. solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/TenThousandHours/decrypt_mucho.py
 
-	 
+	Jumping Chain Hash:
+		challenge no: 436
+		flag: theblockchainwillconsumeyou
+		solution: he was just messing with us with all the extra information. just check the first block that was added of left chain and add + 1 to it.. solved.
+
+	
 
 
 
