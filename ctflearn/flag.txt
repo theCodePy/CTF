@@ -576,7 +576,15 @@ Programming:
 		flag: theblockchainwillconsumeyou
 		solution: he was just messing with us with all the extra information. just check the first block that was added of left chain and add + 1 to it.. solved.
 
+	Antigua:
+		challenge no: 1275
+		flag: CTFlearn{FreeT0wn.P1cadilly}
+		solution: the rust challenge has been debugged successfully. problems were mostly with datatypes. return formate and function calling format. solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/Antigua/main.rs
+
 	
+
+
+
 
 
 
