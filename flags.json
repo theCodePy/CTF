@@ -132,5 +132,6 @@
 	"19-09-2025 03:25" : {"platform": "ctflearn.com", "CTF": "An Old Image", "flag": "CTFlearn{how_can_swapping_columns_hide_a_qr_code}", "difficulty": "Medium", "points": 50, "link": "https://ctflearn.com/challenge/1133", "comment": "Programming, image, column suffle, ittertool, PIL"},
 	"20-09-2025 04:04" : {"platform": "ctflearn.com", "CTF": "Ten Thousand Hours", "flag": "flag{r3ndomly_g3nerat3d_m3th0dS_FTW}", "difficulty": "Hard", "points": 140, "link": "https://ctflearn.com/challenge/161", "comment": "Programming, HORROR!! 40 thousand lines of Code"},
 	"24-09-2025 02:45" : {"platform": "ctflearn.com", "CTF": "Jumping Chain Hash", "flag": "theblockchainwillconsumeyou", "difficulty": "Hard", "points": 100, "link": "https://ctflearn.com/challenge/436", "comment": "Programming, cryptography, lol"},
-	"12-10-2025 11:03" : {"platform": "ctflearn.com", "CTF": "Antigua", "flag": "CTFlearn{FreeT0wn.P1cadilly}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/1275", "comment": "Programming, rust, debugging"}
+	"12-10-2025 11:03" : {"platform": "ctflearn.com", "CTF": "Antigua", "flag": "CTFlearn{FreeT0wn.P1cadilly}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/1275", "comment": "Programming, rust, debugging"},
+	"12-10-2025 14:36" : {"platform": "ctflearn.com", "CTF": "Keyboard Prodigy", "flag": "276", "difficulty": "Hard", "points": 70, "link": "https://ctflearn.com/challenge/433", "comment": "Programming, python, musical keyborad, major scales counting"}
  }
