@@ -581,7 +581,10 @@ Programming:
 		flag: CTFlearn{FreeT0wn.P1cadilly}
 		solution: the rust challenge has been debugged successfully. problems were mostly with datatypes. return formate and function calling format. solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/Antigua/main.rs
 
-	
+	Keyboard Prodigy:
+		challenge no: 433
+		flag: 276
+		solution: after understanding the description, found some properties that will satisfy even if the keys are suffled. 1. only one key must appeared exectly 2 times other keyes must apear one times. 2. all the keys must be in the major scale of that key exectly one time. github solution link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/programming/KeyboardProdigy/majorScaleChecker.py
 
 
 
