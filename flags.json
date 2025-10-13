@@ -134,5 +134,6 @@
 	"24-09-2025 02:45" : {"platform": "ctflearn.com", "CTF": "Jumping Chain Hash", "flag": "theblockchainwillconsumeyou", "difficulty": "Hard", "points": 100, "link": "https://ctflearn.com/challenge/436", "comment": "Programming, cryptography, lol"},
 	"12-10-2025 11:03" : {"platform": "ctflearn.com", "CTF": "Antigua", "flag": "CTFlearn{FreeT0wn.P1cadilly}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/1275", "comment": "Programming, rust, debugging"},
 	"12-10-2025 14:36" : {"platform": "ctflearn.com", "CTF": "Keyboard Prodigy", "flag": "276", "difficulty": "Hard", "points": 70, "link": "https://ctflearn.com/challenge/433", "comment": "Programming, python, musical keyborad, major scales counting"},
-	"12-10-2025 19:01" : {"platform": "ctflearn.com", "CTF": "Christmas Tree Hash", "flag": "CTFlearn{password}", "difficulty": "Hard", "points": 100, "link": "https://ctflearn.com/challenge/432", "comment": "Programming, python, hash function"}
+	"12-10-2025 19:01" : {"platform": "ctflearn.com", "CTF": "Christmas Tree Hash", "flag": "CTFlearn{password}", "difficulty": "Hard", "points": 100, "link": "https://ctflearn.com/challenge/432", "comment": "Programming, python, hash function"},
+	"13-10-2025 14:54" : {"platform": "ctflearn.com", "CTF": "Old memories", "flag": "CTF{I_L0V3_PYTH0N}", "difficulty": "Hard", "points": 80, "link": "https://ctflearn.com/challenge/394", "comment": "Programming, python, PIL"}
  }
