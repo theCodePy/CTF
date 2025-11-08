@@ -269,8 +269,11 @@ Miscellaneous:
 		flag: CTFlearn{r0ck_p4per_skiss0rs}
 		solution: use two connection and check the responces. the responses are identical all the time.
 
-	
-	
+	Get Into Command Mission:
+	    challenge no: 278
+	    flag: CTFlearn{Arm0uR_pPTi4}
+	    solution: open the file in ghidra and saw the username and password was ALDI, 384, found base64 string of a png, used cyberchef to getp the png file.
+		
 
 
 
