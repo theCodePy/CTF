@@ -176,8 +176,11 @@ Forensics:
 		flag : CTFlearn{Ne0.TheMatrix}
 		solution : sos(start of scan) 'ff da' copy 32 bytes of hex after the marker that will be the key, and sof0(start of frame) 'ff c0', iv started after 2bytes for 'ffc0' as the clue said. fuck the clue. so copy 16 bytes of hex after 2bytes of marker.
 
-
-
+	Bobby Toe's iPad:
+		challenge no: 320
+		flag: CTFlearn{you_thinkyougotskillshuh}
+		solution: got an encrypted text from stegsolver, and extract the jpg file in the end of png. encrypted text what vigenere cipher solved with the key from the extracted jpg file.
+	
 
 
 
