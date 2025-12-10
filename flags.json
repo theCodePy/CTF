@@ -139,5 +139,5 @@
 	"13-10-2025 14:54" : {"platform": "ctflearn.com", "CTF": "Old memories", "flag": "CTF{I_L0V3_PYTH0N}", "difficulty": "Hard", "points": 80, "link": "https://ctflearn.com/challenge/394", "comment": "Programming, python, PIL"},
 
 	"30-10-2025 22:54" : {"platform": "tryhackme.com", "room": "tmux", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Easy", "points": 136, "link": "https://tryhackme.com/room/rptmux", "comment": "tmux tutorial"},
-
+	"10-12-2025 12:54" : {"platform": "ctflearn.com", "CTF": "Bobby Toe's iPad", "flag": "CTFlearn{you_thinkyougotskillshuh}", "difficulty": "Hard", "points": 70, "link": "https://ctflearn.com/challenge/320", "comment": "foreinsics, python, stegsolver"},
  }
