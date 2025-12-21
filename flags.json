@@ -144,4 +144,5 @@
 	"21-12-2025 19:50" : {"platform": "tryhackme.com", "room": "Phishing - Merry Clickmas", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Easy", "points": 16, "link": "https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU", "comment": ""},
 	"22-12-2025 10:30" : {"platform": "tryhackme.com", "room": "Splunk Basics - Did you SIEM?", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Easy", "points": 40, "link": "https://tryhackme.com/room/splunkforloganalysis-aoc2025-x8fj2k4rqp", "comment": ""},
 	"22-12-2025 12:11" : {"platform": "tryhackme.com", "room": "AI in Security - old sAInt nick", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Easy", "points": 16, "link": "https://tryhackme.com/room/AIforcyber-aoc2025-y9wWQ1zRgB", "comment": ""},
+	"22-12-2025 03:17" : {"platform": "tryhackme.com", "room": "IDOR - Santa’s Little IDOR", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Medium", "points": 24, "link": "https://tryhackme.com/room/idor-aoc2025-zl6MywQid9", "comment": ""},
  }
