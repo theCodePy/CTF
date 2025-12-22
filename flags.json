@@ -143,4 +143,5 @@
 	"21-12-2025 02:05" : {"platform": "tryhackme.com", "room": "Linux CLI - Shells Bells", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Easy", "points": 48, "link": "https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti", "comment": ""},
 	"21-12-2025 19:50" : {"platform": "tryhackme.com", "room": "Phishing - Merry Clickmas", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Easy", "points": 16, "link": "https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU", "comment": ""},
 	"22-12-2025 10:30" : {"platform": "tryhackme.com", "room": "Splunk Basics - Did you SIEM?", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Easy", "points": 40, "link": "https://tryhackme.com/room/splunkforloganalysis-aoc2025-x8fj2k4rqp", "comment": ""},
+	"22-12-2025 12:11" : {"platform": "tryhackme.com", "room": "AI in Security - old sAInt nick", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Easy", "points": 16, "link": "https://tryhackme.com/room/AIforcyber-aoc2025-y9wWQ1zRgB", "comment": ""},
  }
