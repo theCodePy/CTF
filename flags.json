@@ -141,5 +141,6 @@
 	"10-12-2025 12:54" : {"platform": "ctflearn.com", "CTF": "Bobby Toe's iPad", "flag": "CTFlearn{you_thinkyougotskillshuh}", "difficulty": "Hard", "points": 70, "link": "https://ctflearn.com/challenge/320", "comment": "foreinsics, python, stegsolver"},
 	"21-12-2025 12:11" : {"platform": "tryhackme.com", "room": "Advent of Cyber Prep Track", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Easy", "points": 100, "link": "https://tryhackme.com/room/adventofcyberpreptrack", "comment": ""},
 	"21-12-2025 02:05" : {"platform": "tryhackme.com", "room": "Linux CLI - Shells Bells", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Easy", "points": 48, "link": "https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti", "comment": ""},
-	"21-12-2025 07:50" : {"platform": "tryhackme.com", "room": "Phishing - Merry Clickmas", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Easy", "points": 16, "link": "https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU", "comment": ""}
+	"21-12-2025 19:50" : {"platform": "tryhackme.com", "room": "Phishing - Merry Clickmas", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Easy", "points": 16, "link": "https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU", "comment": ""},
+	"22-12-2025 10:30" : {"platform": "tryhackme.com", "room": "Splunk Basics - Did you SIEM?", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Easy", "points": 40, "link": "https://tryhackme.com/room/splunkforloganalysis-aoc2025-x8fj2k4rqp", "comment": ""},
  }
