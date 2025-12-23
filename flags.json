@@ -146,4 +146,5 @@
 	"22-12-2025 12:11" : {"platform": "tryhackme.com", "room": "AI in Security - old sAInt nick", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Easy", "points": 16, "link": "https://tryhackme.com/room/AIforcyber-aoc2025-y9wWQ1zRgB", "comment": ""},
 	"22-12-2025 03:17" : {"platform": "tryhackme.com", "room": "IDOR - Santa’s Little IDOR", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Medium", "points": 24, "link": "https://tryhackme.com/room/idor-aoc2025-zl6MywQid9", "comment": ""},
 	"23-12-2025 09:51" : {"platform": "tryhackme.com", "room": "Malware Analysis - Egg-xecutable", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Medium", "points": 32, "link": "https://tryhackme.com/room/malware-sandbox-aoc2025-SD1zn4fZQt", "comment": ""},
+	"23-12-2025 11:15" : {"platform": "tryhackme.com", "room": "Network Discovery - Scan-ta Clause", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Easy", "points": 48, "link": "https://tryhackme.com/room/networkservices-aoc2025-jnsoqbxgky", "comment": ""},
  }
