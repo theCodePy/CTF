@@ -155,6 +155,7 @@
 	"27-12-2025 12:26" : {"platform": "tryhackme.com", "room": "YARA Rules - YARA mean one", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Medium", "points": 24, "link": "https://tryhackme.com/room/yara-aoc2025-q9w1e3y5u7", "comment": "yara rules"},
 	"31-12-2025 14:10" : {"platform": "tryhackme.com", "room": "Hydra", "flag1": "THM{2673a7dd116de68e85c48ec0b1f2612e}", "flag2": "THM{c8eeb0468febbadea859baeb33b2541b}", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Easy", "points": 0, "link": "https://tryhackme.com/room/hydra", "comment": "Hydra, password bruteforce"},
 	"12-01-2026 09:52" : {"platform": "tryhackme.com", "room": "Offensive Security Intro", "Subscription": "free", "roomType": "Walkthrough", "difficulty": "Easy", "points": 32, "link": "https://tryhackme.com/room/offensivesecurityintrokK", "comment": ""},
+	"12-01-2026 10:59" : {"platform": "ctflearn.com", "CTF": "Skynet Is (Almost) Taking Over", "flag": "flag{will_he_be_back}", "difficulty": "Hard", "points": 160, "link": "https://ctflearn.com/challenge/221", "comment": ""},
 	"25-01-2026 21:25" : {"platform": "ctflearn.com", "CTF": "Inj3ction Time", "flag": "abctf{uni0n_1s_4_gr34t_c0mm4nd}", "difficulty": "Hard", "points": 100, "link": "https://ctflearn.com/challenge/149", "comment": "sqli, UNION"},
 	"26-01-2026 10:42" : {"platform": "ctflearn.com", "CTF": "Finish The Flag", "flag": "CTFlearn{QR_v30}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/1122", "comment": "ReverseEngineering, gdb"},
  }
