@@ -153,4 +153,5 @@
 	"25-12-2025 13:47" : {"platform": "tryhackme.com", "room": "XSS - Merry XSSMas", "flag1": "THM{Evil_Bunny}", "flag2": "THM{Evil_Stored_Egg}", "Subscription": "free", "roomType": "walkthrough", "difficulty": "Easy", "points": 24, "link": "https://tryhackme.com/room/xss-aoc2025-c5j8b1m4t6", "comment": ""},
 
 	"25-01-2025 21:25" : {"platform": "ctflearn.com", "CTF": "Inj3ction Time", "flag": "abctf{uni0n_1s_4_gr34t_c0mm4nd}", "difficulty": "Hard", "points": 100, "link": "https://ctflearn.com/challenge/149", "comment": "sqli, UNION"},
+	"26-01-2025 10:42" : {"platform": "ctflearn.com", "CTF": "Finish The Flag", "flag": "CTFlearn{QR_v30}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/1122", "comment": "ReverseEngineering, gdb"},
  }
