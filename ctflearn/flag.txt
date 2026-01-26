@@ -633,4 +633,11 @@ Reverse Engineering:
 	RE_verseDIS:
 		challenge no: 188
 		flag: AbCTF{r3vers1ng_dud3}
-		solution: using gdb and ghidra. checking global variables. info variables ^name$. x/s view string. x/22d view integer array of 22 dicimal values. break to set breakpoint. next to execute 1 line in c. nexti to execute 1 assambly instructions.
+		solution: using gdb and ghidra. checking global variables. `info variables ^name$` . x/s view string. x/22d view integer array of 22 dicimal values. break to set breakpoint. 
+			`next` to execute 1 line in c. `nexti` to execute 1 assambly instructions.
+
+	Finish The Flag:
+		challenge no: 1122
+		flag: CTFlearn{QR_v30}
+		solution: `gdb elffile.out` --> `(gdb) break *80234` address like this.
+			to print register value `print $register_name` --> `print $dl`.
