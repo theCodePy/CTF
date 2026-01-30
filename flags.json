@@ -161,4 +161,5 @@
 	"25-01-2026 21:25" : {"platform": "ctflearn.com", "CTF": "Inj3ction Time", "flag": "abctf{uni0n_1s_4_gr34t_c0mm4nd}", "difficulty": "Hard", "points": 100, "link": "https://ctflearn.com/challenge/149", "comment": "sqli, UNION"},
 	"26-01-2026 10:42" : {"platform": "ctflearn.com", "CTF": "Finish The Flag", "flag": "CTFlearn{QR_v30}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/1122", "comment": "ReverseEngineering, gdb"},
 	"30-01-2026 14:18" : {"platform": "ctflearn.com", "CTF": "We want Nudes instead of Nukes", "flag": "flag{2c1289a05847cfd65ecee8f7fe7efd66,8473dcb86bc12c6b6087619c00b6657e}", "difficulty": "Hard", "points": 90, "link": "https://ctflearn.com/challenge/289", "comment": "AES CBC 16 bytes block cipher, IV bit flipping attack, new iv = (iv ^ old P ^ new P)"},
+	"30-01-2026 22:00" : {"platform": "ctflearn.com", "CTF": "Defying Hell", "flag": "CTFlearn{H3ll0_Fr13nd}", "difficulty": "Hard", "points": 100, "link": "https://ctflearn.com/challenge/927", "comment": "discrete log problem, deffie helman key exchange"}
  }
