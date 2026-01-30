@@ -471,7 +471,12 @@ Cryptography:
 		challenge no: 289
 		flag: flag{2c1289a05847cfd65ecee8f7fe7efd66,8473dcb86bc12c6b6087619c00b6657e}
 		solution: we can can alter first block of AES CBC 16 bytes block, by generating new IV, the cipher will be constant so we can change the IV to alter the message. formula ---> new IV = old IV ^ old Plaintext ^ target plaintext; solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/cryptography/WewantNudesinsteadofNukes/Nuke.py ; solution theory explained --> https://github.com/theCodePy/CTF/blob/main/ctflearn/cryptography/WewantNudesinsteadofNukes/README.md
-		
+	
+	Defying Hell:
+		challenge no: 927
+		flag: CTFlearn{H3ll0_Fr13nd}
+		solution: discrete log problem, of deffie helman key exchange,  solved with --> `from sympy.ntheory.residue_ntheory import discrete_log`  solution github link --> https://github.com/theCodePy/CTF/tree/main/ctflearn/cryptography/DefyingHell
+
 
 
 
