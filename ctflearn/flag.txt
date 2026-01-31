@@ -477,7 +477,12 @@ Cryptography:
 		flag: CTFlearn{H3ll0_Fr13nd}
 		solution: discrete log problem, of deffie helman key exchange,  solved with --> `from sympy.ntheory.residue_ntheory import discrete_log`  solution github link --> https://github.com/theCodePy/CTF/tree/main/ctflearn/cryptography/DefyingHell
 
+	Linear-feedback. Shift. Register.:
+		challenge no: 1059
+		flag: CTFlearn{Lin34r_F33db4ck_Sh1fT_R3g1st3r}
+		solution: follow the formate of the flag to get starting numbers of lfsr. by looking at the bits you can tell which bits are used to xor. solution github link --> https://github.com/theCodePy/CTF/tree/main/ctflearn/cryptography/Linear-feedback.Shift.Register
 
+	
 
 
 
