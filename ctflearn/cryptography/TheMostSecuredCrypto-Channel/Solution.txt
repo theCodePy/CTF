@@ -1,0 +1,63 @@
+This is a classic crypto CTF scenario based on the **BB84 Quantum Key Distribution** protocol. You have correctly identified the components, but you are missing the final step of the protocol: **Sifting**.
+
+Here is the breakdown of the files and the theory you need to retrieve the flag.
+
+### Understanding the Files (The BB84 Protocol)
+
+To understand File 3, you need to visualize the 4 steps of BB84:
+
+1. **Transmission (Alice):** Alice sends photons in specific polarization states (represented by your **File 1** symbols: `|`, `-`, `/`, `\`).
+2. **Measurement (Bob):** Bob guesses which "basis" to use to measure those photons (Rectilinear `+` or Diagonal `x`). This is your **File 2**.
+3. **Sifting (The Public Discussion):** This is the key part. After the transmission, Alice and Bob talk publicly. Bob says, "I used basis `+` for bit 1," and Alice says, "That was correct" or "That was wrong."
+4. **Key Generation:** They **only keep the bits** where Bob guessed the correct basis. They discard everything else.
+
+### What is File 3?
+
+**File 3 is the Sifting Map.**
+
+It tells you which measurements were "valid" (where Alice and Bob used the same basis) and which ones should be discarded.
+
+* `v` (likely stands for **Valid** or **Verified**): This means Alice's basis and Bob's basis matched. **This bit is part of the secret key.**
+* `_` (likely stands for **Discard**): This means the bases did not match. This bit is noise/garbage and must be ignored.
+
+### The Algorithm to Retrieve the Flag
+
+You don't need to perform complex quantum math. You just need to filter the data.
+
+1. **Iterate** through all three files simultaneously (index `i` from 0 to end).
+2. **Check File 3:** Look at the character at index `i`.
+* If it is `_` (discard), **skip it**.
+* If it is `v` (valid), **keep this bit**.
+
+
+3. **Decode the Bit (from File 1):**
+If the index is valid, look at the symbol in **File 1** at that index and convert it to a binary `0` or `1`.
+*Standard BB84 Bit Mapping:*
+* **Basis + (Rectilinear):**
+* `|` (Vertical )  Usually **1**
+* `-` (Horizontal )  Usually **0**
+
+
+* **Basis x (Diagonal):**
+* `\` (135$^\circ$)  Usually **1**
+* `/` (45$^\circ$)  Usually **0**
+
+
+
+
+*(Note: In CTFs, sometimes authors flip 0 and 1. If your output looks like gibberish, try inverting the bits: `|`=0, `-`=1).*
+4. **Assembly:**
+* Collect all the valid bits into a long binary string.
+* Convert that binary string into ASCII text (every 8 bits = 1 character).
+
+
+
+### Summary Checklist for your Script
+
+* [ ] Loop through the string length.
+* [ ] `if file3[i] == 'v':`
+* [ ] Translate `file1[i]` to `0` or `1`.
+* [ ] Append to a result string.
+* [ ] Convert binary string to ASCII (use `int(binary_string, 2)` and then `to_bytes`).
+
+That will give you the flag. Good luck!
