@@ -482,6 +482,11 @@ Cryptography:
 		flag: CTFlearn{Lin34r_F33db4ck_Sh1fT_R3g1st3r}
 		solution: follow the formate of the flag to get starting numbers of lfsr. by looking at the bits you can tell which bits are used to xor. solution github link --> https://github.com/theCodePy/CTF/tree/main/ctflearn/cryptography/Linear-feedback.Shift.Register
 
+	The Most Secured Crypto-Channel
+		challenge no: 367
+		flag:Flag{Qu4n7umCryp70gr4phyIs4Fu7ur3}
+		solution: -/|\  --> 0,45,90,135 --> 0,0,1,1 in binary. only take the bits which are verified and add them. solution github link --> https://github.com/theCodePy/CTF/tree/main/ctflearn/cryptography/TheMostSecuredCrypto-Channel
+
 	
 
 
