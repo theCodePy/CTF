@@ -324,7 +324,10 @@ Binary:
 		flag: CTFlearn{c0ntr0ling_r1p_1s_n0t_t00_h4rd_abjkdlfa}
 		Solution: simple buffer overflow just don't change the instruction section and update the memory address in the right place to call an inbuilt function. solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/binary/RIPmybof/attack.sh
 	
-
+	Cryptoversing
+		challenge no: 667
+		flag: CTFlearn{xOr_mUsT_B3_1mp0rt4nT}
+		solution: ghidra and good analysing it by gemini solved the problem. 
 
 
 
