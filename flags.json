@@ -163,5 +163,6 @@
 	"30-01-2026 14:18" : {"platform": "ctflearn.com", "CTF": "We want Nudes instead of Nukes", "flag": "flag{2c1289a05847cfd65ecee8f7fe7efd66,8473dcb86bc12c6b6087619c00b6657e}", "difficulty": "Hard", "points": 90, "link": "https://ctflearn.com/challenge/289", "comment": "AES CBC 16 bytes block cipher, IV bit flipping attack, new iv = (iv ^ old P ^ new P)"},
 	"30-01-2026 22:00" : {"platform": "ctflearn.com", "CTF": "Defying Hell", "flag": "CTFlearn{H3ll0_Fr13nd}", "difficulty": "Hard", "points": 100, "link": "https://ctflearn.com/challenge/927", "comment": "discrete log problem, deffie helman key exchange"},
 	"31-01-2026 10:14" : {"platform": "ctflearn.com", "CTF": "Linear-feedback. Shift. Register.", "flag": "CTFlearn{Lin34r_F33db4ck_Sh1fT_R3g1st3r}", "difficulty": "Hard", "points": 90, "link": "https://ctflearn.com/challenge/1059", "comment": "sift register, xoring bits. lfsr, prng"},
-	"31-01-2026 11:35" : {"platform": "ctflearn.com", "CTF": "The Most Secured Crypto-Channel", "flag": "Flag{Qu4n7umCryp70gr4phyIs4Fu7ur3}", "difficulty": "Hard", "points": 160, "link": "https://ctflearn.com/challenge/367", "comment": "Cryptography, quantum secure channel, BB84 protocol"}
- }
+	"31-01-2026 11:35" : {"platform": "ctflearn.com", "CTF": "The Most Secured Crypto-Channel", "flag": "Flag{Qu4n7umCryp70gr4phyIs4Fu7ur3}", "difficulty": "Hard", "points": 160, "link": "https://ctflearn.com/challenge/367", "comment": "Cryptography, quantum secure channel, BB84 protocol"},
+	"01-02-2026 15:53" : {"platform": "ctflearn.com", "CTF": "Cryptoversing", "flag": "CTFlearn{xOr_mUsT_B3_1mp0rt4nT}", "difficulty": "Hard", "points": 90, "link": "https://ctflearn.com/challenge/667", "comment": "binary, reverse engneering, ghidra, gemini pro"}
+ }	
