@@ -283,8 +283,13 @@ Miscellaneous:
 	    flag: CTFlearn{Arm0uR_pPTi4}
 	    solution: open the file in ghidra and saw the username and password was ALDI, 384, found base64 string of a png, used cyberchef to getp the png file.
 		
-
-
+	Combo Safe-box:
+		challenge no: 316
+	    flag: CTFlearn{751623}
+	    solution: use unzip command to unzip the ppt then follow the links in slide.xml.rel and slide.xml file. `grep -r 'Target="slide10.xml"' ./`  to find the rel file where this target is specified.
+	    `grep -r -B 10 'rId2' ppt/slides/slide1.xml` finding the id from the xml file where it is tagged.
+	    hyperlink ppt jump in xml --> `<a:hlinkClick r:id="rId3" action="ppaction://hlinksldjump"/>`
+	    reference from .rel file of that is mentioned --> `<Relationship Id="rId4" Target="slide11.xml"/></Relationships>`
 
 
 
@@ -324,7 +329,7 @@ Binary:
 		flag: CTFlearn{c0ntr0ling_r1p_1s_n0t_t00_h4rd_abjkdlfa}
 		Solution: simple buffer overflow just don't change the instruction section and update the memory address in the right place to call an inbuilt function. solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/binary/RIPmybof/attack.sh
 	
-	Cryptoversing
+	Cryptoversing:
 		challenge no: 667
 		flag: CTFlearn{xOr_mUsT_B3_1mp0rt4nT}
 		solution: ghidra and good analysing it by gemini solved the problem. 
