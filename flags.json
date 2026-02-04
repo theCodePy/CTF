@@ -168,5 +168,6 @@
 	"01-02-2026 17:36" : {"platform": "ctflearn.com", "CTF": "Combo Safe-box", "flag": "CTFlearn{751623}", "difficulty": "Hard", "points": 70, "link": "https://ctflearn.com/challenge/316", "comment": "Miscellaneous, ppt, xml lookup, grep, unzipping ppt"},
 	"01-02-2026 21:14" : {"platform": "ctflearn.com", "CTF": "Time to Eat", "flag": "CTFlearn{eaten_341eat009}", "difficulty": "Medium", "points": 50, "link": "https://ctflearn.com/challenge/743", "comment": "reverse engneering, python, changing variable names to analyse"},
 	"02-02-2026 11:06" : {"platform": "ctflearn.com", "CTF": "Bite-code", "flag": "CTFlearn{-1352854872}", "difficulty": "Medium", "points": 60, "link": "https://ctflearn.com/challenge/368", "comment": "reverse engneering, Bite-code, java, javac"},
-	"04-02-2026 12:32" : {"platform": "ctflearn.com", "CTF": "Rangoon", "flag": "CTFlearn{Princess_Maha_Devi}", "difficulty": "Easy", "points": 10, "link": "https://ctflearn.com/challenge/994", "comment": "reverse engneering, print register, set breakpoint, gdb"}
+	"04-02-2026 12:32" : {"platform": "ctflearn.com", "CTF": "Rangoon", "flag": "CTFlearn{Princess_Maha_Devi}", "difficulty": "Easy", "points": 10, "link": "https://ctflearn.com/challenge/994", "comment": "reverse engneering, print register, set breakpoint, gdb"},
+	"04-02-2026 14:16" : {"platform": "ctflearn.com", "CTF": "Rangoon", "flag": "CTFlearn{Masmak_Fortress_1865}", "difficulty": "Easy", "points": 10, "link": "https://ctflearn.com/challenge/991", "comment": "reverse engneering, print register, set breakpoint, gdb"}
  }	
