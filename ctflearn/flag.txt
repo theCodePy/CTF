@@ -684,3 +684,9 @@ Reverse Engineering:
 		challenge no: 994
 		flag: CTFlearn{Princess_Maha_Devi}
 		solution: set break at the strcmp call. to check the address of buffer that is stored in the register rbp  --> `info register $rbp` then print the string of the register `x/s $rbp` to see the string stored in the buffer.
+
+	Riyadh:
+		challenge no: 991
+		flag: CTFlearn{Masmak_Fortress_1865}
+		solution: set break at the msg5 call which was the only one sets the actual flag to the buffur. then print the rbp. x/s $rbp to see the flag.
+	
