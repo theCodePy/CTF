@@ -679,3 +679,8 @@ Reverse Engineering:
 		challenge no: 368
 		flag: CTFlearn{-1352854872}
 		solution: i have the gemini analys the bite-code the asked it to develop the java solution code for it. it solved the problem totally. the problem was to find the input such that--> `inp<<3 ^ inp =  -889275714 ^ 525024598` solution github link --> https://github.com/theCodePy/CTF/tree/main/ctflearn/reverseengineering/Bite-code
+
+	Rangoon:
+		challenge no: 994
+		flag: CTFlearn{Princess_Maha_Devi}
+		solution: set break at the strcmp call. to check the address of buffer that is stored in the register rbp  --> `info register $rbp` then print the string of the register `x/s $rbp` to see the string stored in the buffer.
