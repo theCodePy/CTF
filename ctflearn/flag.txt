@@ -181,7 +181,10 @@ Forensics:
 		flag: CTFlearn{you_thinkyougotskillshuh}
 		solution: got an encrypted text from stegsolver, and extract the jpg file in the end of png. encrypted text what vigenere cipher solved with the key from the extracted jpg file.
 	
-
+	QR-code inception:
+		challenge no: 920
+		flag: CTFlearn{Y0u_4re_in_QR-cOd3_l1mb0}
+		soltuion: smaller version of qr are present in the big image. read every qr by cropping them inside python. and read from them with zxingcpp. the result is a base64 encoded qr read that too. to get the flag. solution github link- --> https://github.com/theCodePy/CTF/tree/main/ctflearn/forensics/QR-code_inception
 
 
 
@@ -689,4 +692,3 @@ Reverse Engineering:
 		challenge no: 991
 		flag: CTFlearn{Masmak_Fortress_1865}
 		solution: set break at the msg5 call which was the only one sets the actual flag to the buffur. then print the rbp. x/s $rbp to see the flag.
-	
