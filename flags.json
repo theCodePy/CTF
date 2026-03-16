@@ -171,5 +171,6 @@
 	"04-02-2026 12:32" : {"platform": "ctflearn.com", "CTF": "Rangoon", "flag": "CTFlearn{Princess_Maha_Devi}", "difficulty": "Easy", "points": 10, "link": "https://ctflearn.com/challenge/994", "comment": "reverse engneering, print register, set breakpoint, gdb"},
 	"04-02-2026 14:16" : {"platform": "ctflearn.com", "CTF": "Rangoon", "flag": "CTFlearn{Masmak_Fortress_1865}", "difficulty": "Easy", "points": 10, "link": "https://ctflearn.com/challenge/991", "comment": "reverse engneering, print register, set breakpoint, gdb"},
 	"04-02-2026 18:56" : {"platform": "ctflearn.com", "CTF": "QR-code inception", "flag": "CTFlearn{Y0u_4re_in_QR-cOd3_l1mb0}", "difficulty": "Hard", "points": 70, "link": "https://ctflearn.com/challenge/920", "comment": "Forensics, qr inside qr, zxingcpp"},
-	"16-03-2026 10:36" : {"platform": "ctflearn.com", "CTF": "Ramada", "flag": "CTFlearn{+Lip1zzaner_Stalli0ns}", "difficulty": "Easy", "points": 10, "link": "https://ctflearn.com/challenge/1009", "comment": "gdb, ghidra, reverse engneering"}
+	"16-03-2026 10:36" : {"platform": "ctflearn.com", "CTF": "Ramada", "flag": "CTFlearn{+Lip1zzaner_Stalli0ns}", "difficulty": "Easy", "points": 10, "link": "https://ctflearn.com/challenge/1009", "comment": "gdb, ghidra, reverse engneering"},
+	"16-03-2026 11:06" : {"platform": "ctflearn.com", "CTF": "Raspberry", "flag": "CTFlearn{+Fruit123}", "difficulty": "Easy", "points": 20, "link": "https://ctflearn.com/challenge/1080", "comment": "ghidra, reverse engneering"}
  }	
