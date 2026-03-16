@@ -697,3 +697,8 @@ Reverse Engineering:
 		challenge no: 1009
 		flag: CTFlearn{+Lip1zzaner_Stalli0ns}
 		solution: use ghidra to understand the flow, found one single breakpoint where the data is pointed in rsi register, print it using "x/21d $rsi" cube root them to get the flag. solution --> https://github.com/theCodePy/CTF/blob/main/ctflearn/reverseengineering/Ramada/solution.txt
+
+	Raspberry:
+		challenge no: 1080
+		flag: CTFlearn{+Fruit123}
+		solution: use ghidra to analys how each variable are checked. then get each character one by one.. 
