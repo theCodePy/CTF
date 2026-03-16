@@ -692,3 +692,8 @@ Reverse Engineering:
 		challenge no: 991
 		flag: CTFlearn{Masmak_Fortress_1865}
 		solution: set break at the msg5 call which was the only one sets the actual flag to the buffur. then print the rbp. x/s $rbp to see the flag.
+
+	Ramada:
+		challenge no: 1009
+		flag: CTFlearn{+Lip1zzaner_Stalli0ns}
+		solution: use ghidra to understand the flow, found one single breakpoint where the data is pointed in rsi register, print it using "x/21d $rsi" cube root them to get the flag. solution --> https://github.com/theCodePy/CTF/blob/main/ctflearn/reverseengineering/Ramada/solution.txt
