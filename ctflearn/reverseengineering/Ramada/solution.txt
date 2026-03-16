@@ -1,0 +1,20 @@
+gdb ./Ramada
+
+set args "CTFlearn{1234567890abcdefghijk}"
+
+start
+
+break *(start_addr + 0x1396)
+
+x/21d $rsi
+
+then grab all the decimals and list it like this in python
+
+flag = [79507, 438976, 1157625, 1404928, 117649, 1815848, 1815848, 912673, 1331000, 1030301, 1481544, 857375, 571787, 1560896, 912673, 1259712, 1259712, 1157625, 110592, 1331000, 1520875]
+m = ""
+for i in flag:
+    m += chr(round( i ** (1/3)))
+
+
+the flag = CTFlearn{+Lip1zzaner_Stalli0ns}
+
