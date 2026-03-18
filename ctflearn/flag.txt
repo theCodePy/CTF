@@ -702,3 +702,8 @@ Reverse Engineering:
 		challenge no: 1080
 		flag: CTFlearn{+Fruit123}
 		solution: use ghidra to analys how each variable are checked. then get each character one by one.. 
+
+	Recklinghausen:
+		challenge no: 995
+		flag: CTFlearn{Ruhrfestspiele_Festival}
+		solution: use ghidra to analyse, call the function get_message with different parameter to print the flag. get_message with parameter 5 to print the flag. use `set $rip=(address + offset)` to execute the instructions and call the function.
