@@ -713,4 +713,9 @@ Reverse Engineering:
 		flag: CTFlearn{Daugava_R1ver_Latv1a}
 		solution: use Ghidra to analyse the function use ghidra to get the encrypted flag. wrote a function to reverse the encryuption done by brute forcing it in python, github solution link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/reverseengineering/Riga/decrypt.py. 
 
-	
+	Rzeszow:
+		challenge no: 1003
+		flag: CTFlearn{K0nstancja}
+		solution: using ghidra to analys the program, i found there is a verbose mode with -v option. bruteforce the encryption function by writin the encryption technique in python. found the the flag. solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/reverseengineering/Rzeszow/rzDecrypt.py
+
+	 
