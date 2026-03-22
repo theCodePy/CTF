@@ -718,4 +718,9 @@ Reverse Engineering:
 		flag: CTFlearn{K0nstancja}
 		solution: using ghidra to analys the program, i found there is a verbose mode with -v option. bruteforce the encryption function by writin the encryption technique in python. found the the flag. solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/reverseengineering/Rzeszow/rzDecrypt.py
 
-	 
+	PyDis:
+		Challenge no: 976
+		flag: CTFlearn{Python_Reversing_Is_Pretty_Easy}
+		solution: manually analysed the python bytecode and rewrite it in python. solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/reverseengineering/PyDis/assabled.py
+
+		 
