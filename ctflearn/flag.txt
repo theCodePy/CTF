@@ -707,3 +707,10 @@ Reverse Engineering:
 		challenge no: 995
 		flag: CTFlearn{Ruhrfestspiele_Festival}
 		solution: use ghidra to analyse, call the function get_message with different parameter to print the flag. get_message with parameter 5 to print the flag. use `set $rip=(address + offset)` to execute the instructions and call the function.
+
+	Riga:
+		challenge no: 996
+		flag: CTFlearn{Daugava_R1ver_Latv1a}
+		solution: use Ghidra to analyse the function use ghidra to get the encrypted flag. wrote a function to reverse the encryuption done by brute forcing it in python, github solution link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/reverseengineering/Riga/decrypt.py. 
+
+	
