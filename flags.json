@@ -173,5 +173,6 @@
 	"04-02-2026 18:56" : {"platform": "ctflearn.com", "CTF": "QR-code inception", "flag": "CTFlearn{Y0u_4re_in_QR-cOd3_l1mb0}", "difficulty": "Hard", "points": 70, "link": "https://ctflearn.com/challenge/920", "comment": "Forensics, qr inside qr, zxingcpp"},
 	"16-03-2026 10:36" : {"platform": "ctflearn.com", "CTF": "Ramada", "flag": "CTFlearn{+Lip1zzaner_Stalli0ns}", "difficulty": "Easy", "points": 10, "link": "https://ctflearn.com/challenge/1009", "comment": "gdb, ghidra, reverse engneering"},
 	"16-03-2026 11:06" : {"platform": "ctflearn.com", "CTF": "Raspberry", "flag": "CTFlearn{+Fruit123}", "difficulty": "Easy", "points": 20, "link": "https://ctflearn.com/challenge/1080", "comment": "ghidra, reverse engneering"},
-	"17-03-2026 11:34" : {"platform": "ctflearn.com", "CTF": "Recklinghausen", "flag": "CTFlearn{Ruhrfestspiele_Festival}", "difficulty": "Easy", "points": 20, "link": "https://ctflearn.com/challenge/995", "comment": "ghidra, reverse engneering"}
+	"17-03-2026 11:34" : {"platform": "ctflearn.com", "CTF": "Recklinghausen", "flag": "CTFlearn{Ruhrfestspiele_Festival}", "difficulty": "Easy", "points": 20, "link": "https://ctflearn.com/challenge/995", "comment": "ghidra, reverse engneering"},
+	"22-03-2026 20:30" : {"platform": "ctflearn.com", "CTF": "Riga", "flag": "CTFlearn{Daugava_R1ver_Latv1a}", "difficulty": "Easy", "points": 20, "link": "https://ctflearn.com/challenge/996", "comment": "ghidra, reverse engneering, gdb"}
  }	
