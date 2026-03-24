@@ -723,4 +723,7 @@ Reverse Engineering:
 		flag: CTFlearn{Python_Reversing_Is_Pretty_Easy}
 		solution: manually analysed the python bytecode and rewrite it in python. solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/reverseengineering/PyDis/assabled.py
 
-		 
+	Reverse Me:
+		challenge no: 989
+		flag: CTFLearn{reversing_is_fun}
+		solution: analyse the binary in ghidra and found that the encrypted flag was hardcoded in the binary. get the encrypted flag from gdb. analyse the functions in ghidra and write the decryption function in python. solution github link --> https://github.com/theCodePy/CTF/blob/main/ctflearn/reverseengineering/Reverse_Me/find_flag.py 
