@@ -176,5 +176,6 @@
 	"17-03-2026 11:34" : {"platform": "ctflearn.com", "CTF": "Recklinghausen", "flag": "CTFlearn{Ruhrfestspiele_Festival}", "difficulty": "Easy", "points": 20, "link": "https://ctflearn.com/challenge/995", "comment": "ghidra, reverse engneering"},
 	"22-03-2026 20:30" : {"platform": "ctflearn.com", "CTF": "Riga", "flag": "CTFlearn{Daugava_R1ver_Latv1a}", "difficulty": "Easy", "points": 20, "link": "https://ctflearn.com/challenge/996", "comment": "ghidra, reverse engneering, gdb"},
 	"22-03-2026 22:30" : {"platform": "ctflearn.com", "CTF": "Rzeszow", "flag": "CTFlearn{K0nstancja}", "difficulty": "Easy", "points": 30, "link": "https://ctflearn.com/challenge/1003", "comment": "ghidra, reverse engneering, python"},
-	"22-03-2026 23:52" : {"platform": "ctflearn.com", "CTF": "PyDis", "flag": "CTFlearn{Python_Reversing_Is_Pretty_Easy}", "difficulty": "Medium", "points": 40, "link": "https://ctflearn.com/challenge/976", "comment": "python, python bytecode, python Assembly"}
+	"22-03-2026 23:52" : {"platform": "ctflearn.com", "CTF": "PyDis", "flag": "CTFlearn{Python_Reversing_Is_Pretty_Easy}", "difficulty": "Medium", "points": 40, "link": "https://ctflearn.com/challenge/976", "comment": "python, python bytecode, python Assembly"},
+	"24-03-2026 15:52" : {"platform": "ctflearn.com", "CTF": "Reverse Me", "flag": "CTFLearn{reversing_is_fun}", "difficulty": "Medium", "points": 50, "link": "https://ctflearn.com/challenge/989", "comment": "ghidra, gdb, python"}
  }	
